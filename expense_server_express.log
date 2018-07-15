@@ -1,0 +1,2265 @@
+[2017-09-22 08:42:59.286] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 08:52:02.349] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 08:52:47.395] [INFO] expense_server_express - new user
+[2017-09-22 08:52:47.423] [INFO] expense_server_express - new user registered
+[2017-09-22 09:23:19.984] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 09:24:13.339] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 09:25:15.075] [INFO] expense_server_express - new user
+[2017-09-22 09:25:15.104] [INFO] expense_server_express - new user registered
+[2017-09-22 09:26:27.369] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-22 09:26:36.183] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-22 09:27:22.563] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-22 09:29:24.353] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-22 09:29:48.753] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-22 09:30:08.798] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-22 09:30:19.795] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 09:31:27.153] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 10:36:14.924] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 10:38:02.344] [INFO] expense_server_express - new user
+[2017-09-22 10:38:02.410] [INFO] expense_server_express - new user registered
+[2017-09-22 10:40:58.687] [INFO] expense_server_express - new user
+[2017-09-22 10:40:58.690] [INFO] expense_server_express - new user registered
+[2017-09-22 10:41:29.072] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-22 10:41:54.750] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-22 10:42:09.260] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-22 10:42:49.008] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-22 10:52:22.157] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-22 10:52:53.583] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-22 10:55:32.040] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 10:55:58.931] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 10:58:07.974] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-22 10:58:45.799] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-22 10:58:52.952] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-22 11:00:03.574] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 11:00:15.594] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-22 11:01:26.551] [INFO] expense_server_express - new user
+[2017-09-22 11:01:26.576] [INFO] expense_server_express - new user registered
+[2017-09-22 11:04:37.785] [INFO] expense_server_express - user already exists
+[2017-09-22 11:06:04.020] [INFO] expense_server_express - new user
+[2017-09-22 11:06:04.025] [INFO] expense_server_express - new user registered
+[2017-09-22 11:11:00.496] [INFO] expense_server_express - new user
+[2017-09-22 11:11:00.500] [INFO] expense_server_express - new user registered
+[2017-09-22 11:24:07.570] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 11:26:51.529] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 11:37:54.345] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 11:38:16.967] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 17:01:58.460] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 17:49:20.547] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 19:11:56.947] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 21:02:39.854] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 21:02:40.570] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-22 21:03:47.498] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 21:05:46.253] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 21:07:34.136] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 22:27:17.027] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 23:17:40.131] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 23:24:20.280] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 23:30:27.492] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 23:30:35.678] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 23:30:36.143] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-22 23:40:22.810] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 23:40:23.196] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-22 23:41:05.789] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 23:41:06.162] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 00:34:27.702] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 00:34:28.061] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 00:36:16.487] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 00:36:43.074] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 00:36:43.481] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 00:37:28.636] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 00:37:34.467] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 00:37:34.867] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 00:37:53.188] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 00:37:53.555] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 00:38:58.173] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 00:38:58.551] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 00:39:21.954] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 00:39:27.982] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 00:39:28.398] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 00:47:19.056] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 00:47:26.795] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 00:47:27.206] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 01:00:42.994] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 01:03:18.618] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 01:03:24.084] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 01:03:24.485] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 01:06:05.065] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 01:06:13.824] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 01:06:14.226] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 01:23:02.271] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 01:23:02.695] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 01:23:20.199] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 01:23:23.905] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 01:23:24.321] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 01:23:51.390] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 01:23:51.759] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 01:24:03.934] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 01:24:08.130] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 01:24:08.542] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 01:26:35.230] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 01:26:35.604] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 01:26:40.967] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 01:26:46.043] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 01:26:46.457] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 01:27:12.500] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 01:27:12.871] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 01:56:02.688] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 01:56:07.059] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 01:56:07.472] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 01:56:44.459] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 01:56:44.836] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 01:57:11.601] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 01:57:15.528] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 01:57:15.945] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 01:57:33.049] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 01:57:33.422] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 01:58:12.163] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 01:58:12.544] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 01:59:49.946] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 01:59:50.310] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 02:00:44.628] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 02:00:56.537] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 02:00:56.947] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 02:01:31.532] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 02:01:40.688] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 02:01:41.098] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 02:02:04.234] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 02:02:04.602] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 02:04:28.099] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 02:04:28.488] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 02:04:44.295] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 02:04:44.637] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 08:47:22.913] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 08:47:40.922] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 08:47:48.633] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 08:47:56.143] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 08:47:56.668] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 08:49:15.997] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:03:51.082] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:03:56.577] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:04:32.259] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:04:52.034] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:05:41.628] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:05:47.401] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:07:13.785] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:07:21.448] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:08:06.930] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:09:03.140] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:11:25.875] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:12:53.717] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:12:59.173] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:13:27.889] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:15:24.397] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:15:30.990] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:19:43.764] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:20:34.713] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:23:33.071] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:24:21.092] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:25:32.621] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:25:38.669] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:26:21.607] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:26:26.185] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:27:27.415] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:27:40.668] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:27:48.019] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:28:11.453] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:28:16.564] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:31:35.375] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:33:15.117] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:33:57.651] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:34:47.510] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:34:53.121] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:35:29.391] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:38:34.276] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:39:01.885] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:39:06.539] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:42:14.328] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:42:19.507] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:42:38.574] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:45:52.985] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:45:57.731] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:46:51.326] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:48:36.086] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:48:43.766] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:48:48.272] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:49:09.043] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:49:36.602] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:50:07.270] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:50:20.280] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:50:38.925] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:50:54.689] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:51:49.085] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:52:04.164] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:52:16.937] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:52:21.670] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:53:15.572] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:54:50.629] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:54:59.901] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:55:05.735] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:55:56.185] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:56:05.880] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:56:26.498] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:57:52.448] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:57:58.149] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 09:58:49.533] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 10:01:08.100] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 10:03:16.100] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 10:03:21.895] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 10:03:50.369] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 10:05:55.547] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 10:06:12.325] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 10:06:16.690] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 10:43:47.486] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 10:59:10.381] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 11:00:55.441] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 11:02:09.304] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 11:05:19.476] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 11:07:00.836] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 11:08:19.242] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 11:12:32.843] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 11:13:34.771] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 11:13:47.038] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 11:16:25.244] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 11:17:30.201] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 11:20:28.513] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 11:26:13.295] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 11:28:15.279] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 11:28:39.607] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 11:28:40.016] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 11:29:36.366] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 11:29:50.144] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 11:29:50.555] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 11:31:06.966] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 11:31:07.160] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 11:32:33.854] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 11:32:34.279] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 11:32:46.634] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 11:32:55.402] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 11:36:09.260] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 11:36:20.834] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 11:36:41.673] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 11:38:45.336] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 11:39:09.065] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 11:39:56.958] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 11:39:59.558] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 11:40:01.078] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 11:40:01.529] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 11:40:27.530] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 11:40:27.934] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 11:43:37.021] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 11:44:21.609] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 11:47:12.573] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 11:47:25.680] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 11:49:29.425] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 11:56:28.650] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 12:05:06.468] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 13:06:46.833] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 13:06:47.269] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 13:07:41.371] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 13:07:41.807] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 15:18:45.648] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-24 00:11:55.440] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+=======
+[2017-09-22 16:59:12.936] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 17:29:37.762] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 17:29:38.229] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-22 18:32:07.790] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 19:08:57.035] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 19:16:16.667] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 19:17:57.605] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 19:21:32.939] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 19:30:15.167] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 19:32:40.778] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 19:41:04.282] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 19:58:39.841] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 19:59:47.203] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 20:00:50.382] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 20:01:08.348] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 20:01:38.507] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 20:01:55.721] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 20:02:11.759] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 20:05:21.209] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 20:06:37.650] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-22 20:07:33.635] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 10:11:54.518] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 10:13:32.172] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 10:16:55.887] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 10:17:53.690] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 10:19:53.927] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 10:25:40.846] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 10:37:51.164] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 10:39:22.676] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 10:41:51.074] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 10:43:17.920] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 10:44:15.784] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 10:46:10.706] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 10:50:14.365] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 10:57:06.802] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 10:58:38.215] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 10:59:37.756] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 12:29:47.542] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 12:40:47.042] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 12:54:39.036] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 14:08:01.451] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 14:17:28.416] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 14:21:03.047] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 14:22:28.015] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 14:24:21.836] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 14:24:50.455] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 14:25:48.254] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 14:26:46.487] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 14:27:34.629] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 14:28:44.722] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 14:29:03.324] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 14:29:26.777] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 14:29:49.992] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 14:30:19.372] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 14:30:30.374] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 14:35:12.087] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 14:35:42.339] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 14:38:44.704] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 14:39:45.168] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 14:40:14.807] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 14:40:56.314] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 14:41:23.544] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 14:42:18.281] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 15:27:32.981] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 15:27:53.756] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 15:27:54.386] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 15:27:56.393] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 15:34:39.300] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 15:34:40.073] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 15:34:42.079] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 15:39:38.966] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 17:13:37.995] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 17:13:41.327] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 17:13:43.332] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-23 17:19:24.812] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 17:21:16.592] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 17:21:43.706] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 17:29:18.798] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 17:29:19.482] [INFO] expense_server_express - user already exists
+[2017-09-23 17:29:48.182] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 17:29:48.788] [INFO] expense_server_express - user already exists
+[2017-09-23 17:30:58.496] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 17:30:59.264] [INFO] expense_server_express - user already exists
+[2017-09-23 17:32:09.742] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 17:32:10.359] [INFO] expense_server_express - user already exists
+[2017-09-23 17:32:37.455] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 17:34:48.718] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 17:34:49.452] [INFO] expense_server_express - new user
+[2017-09-23 17:34:49.458] [INFO] expense_server_express - new user registered
+[2017-09-23 17:35:00.585] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 17:35:19.105] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 17:35:24.001] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 17:35:24.621] [INFO] expense_server_express - new user
+[2017-09-23 17:35:24.628] [INFO] expense_server_express - new user registered
+[2017-09-23 17:37:35.003] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-23 17:37:35.651] [INFO] expense_server_express - new user
+[2017-09-23 17:37:35.657] [INFO] expense_server_express - new user registered
+[2017-09-23 17:38:58.685] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-24 11:14:15.601] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-24 11:20:00.432] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-24 12:03:11.519] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-24 13:36:30.665] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-24 13:47:43.515] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-24 13:48:17.899] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-24 13:49:32.891] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-24 13:50:48.382] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-24 13:51:22.970] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-24 13:53:39.310] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-24 13:55:11.810] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-24 14:15:26.457] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-24 14:20:53.700] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-24 14:23:59.575] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-24 14:45:32.003] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-24 15:12:38.641] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 08:26:11.681] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 08:27:02.102] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 08:27:30.847] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 08:28:21.975] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 08:28:35.333] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 08:28:59.245] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 08:31:42.338] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 08:32:26.148] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 08:32:32.947] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 08:33:52.743] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 08:34:27.828] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 08:34:49.841] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 08:35:18.864] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 08:35:59.602] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 08:36:24.314] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 08:36:43.388] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 08:37:43.645] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 08:38:30.320] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 08:38:55.093] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 08:39:53.148] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 08:40:30.221] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 08:41:13.472] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 08:41:34.271] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 08:43:02.512] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 08:43:17.375] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 08:43:46.640] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 08:45:36.310] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 08:46:04.394] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 08:46:27.032] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 08:48:06.207] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 08:53:57.616] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:04:24.096] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:06:05.975] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:07:50.236] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:08:23.814] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:09:10.934] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:10:36.361] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:11:12.267] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:11:42.220] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:12:11.286] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:12:33.088] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:13:20.159] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:14:37.012] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:15:35.781] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:16:17.834] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:16:35.282] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:16:51.175] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:18:18.776] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:18:42.823] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:18:58.490] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:20:23.851] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:21:19.823] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:23:34.620] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:25:08.251] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:25:40.687] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:26:09.673] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:28:57.870] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:29:34.403] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:31:11.332] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:31:11.955] [INFO] expense_server_express - user already exists
+[2017-09-25 09:31:58.414] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:31:59.032] [INFO] expense_server_express - new user
+[2017-09-25 09:31:59.104] [INFO] expense_server_express - new user registered
+[2017-09-25 09:32:44.913] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:32:45.529] [INFO] expense_server_express - user already exists
+[2017-09-25 09:34:16.967] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:34:17.577] [INFO] expense_server_express - new user
+[2017-09-25 09:34:17.601] [INFO] expense_server_express - new user registered
+[2017-09-25 09:34:50.023] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:34:50.631] [INFO] expense_server_express - new user
+[2017-09-25 09:34:50.637] [INFO] expense_server_express - new user registered
+[2017-09-25 09:37:42.483] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:37:46.164] [INFO] expense_server_express - new user
+[2017-09-25 09:37:46.170] [INFO] expense_server_express - new user registered
+[2017-09-25 09:39:58.466] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:39:59.070] [INFO] expense_server_express - new user
+[2017-09-25 09:39:59.076] [INFO] expense_server_express - new user registered
+[2017-09-25 09:40:47.045] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:40:47.661] [INFO] expense_server_express - new user
+[2017-09-25 09:40:47.666] [INFO] expense_server_express - new user registered
+[2017-09-25 09:41:37.190] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:41:37.791] [INFO] expense_server_express - new user
+[2017-09-25 09:41:37.797] [INFO] expense_server_express - new user registered
+[2017-09-25 09:42:45.528] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:42:46.140] [INFO] expense_server_express - new user
+[2017-09-25 09:42:46.146] [INFO] expense_server_express - new user registered
+[2017-09-25 09:44:48.269] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:44:48.871] [INFO] expense_server_express - new user
+[2017-09-25 09:44:48.877] [INFO] expense_server_express - new user registered
+[2017-09-25 09:45:04.741] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:45:05.340] [INFO] expense_server_express - new user
+[2017-09-25 09:45:05.346] [INFO] expense_server_express - new user registered
+[2017-09-25 09:45:05.407] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-25 09:47:44.915] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:47:45.498] [INFO] expense_server_express - new user
+[2017-09-25 09:47:45.503] [INFO] expense_server_express - new user registered
+[2017-09-25 09:48:17.047] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:48:17.660] [INFO] expense_server_express - new user
+[2017-09-25 09:48:17.665] [INFO] expense_server_express - new user registered
+[2017-09-25 09:52:31.155] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:52:31.759] [INFO] expense_server_express - new user
+[2017-09-25 09:52:31.765] [INFO] expense_server_express - new user registered
+[2017-09-25 09:53:09.349] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:53:09.962] [INFO] expense_server_express - new user
+[2017-09-25 09:53:09.967] [INFO] expense_server_express - new user registered
+[2017-09-25 09:54:15.752] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:54:16.364] [INFO] expense_server_express - new user
+[2017-09-25 09:54:16.370] [INFO] expense_server_express - new user registered
+[2017-09-25 09:55:14.611] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:55:15.217] [INFO] expense_server_express - new user
+[2017-09-25 09:55:15.223] [INFO] expense_server_express - new user registered
+[2017-09-25 09:57:22.341] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:57:22.955] [INFO] expense_server_express - new user
+[2017-09-25 09:57:22.960] [INFO] expense_server_express - new user registered
+[2017-09-25 09:57:23.017] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-25 09:58:18.948] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 09:58:19.566] [INFO] expense_server_express - new user
+[2017-09-25 09:58:19.572] [INFO] expense_server_express - new user registered
+[2017-09-25 09:58:19.630] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-25 09:59:06.810] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 10:00:59.037] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 10:00:59.667] [INFO] expense_server_express - new user
+[2017-09-25 10:00:59.673] [INFO] expense_server_express - new user registered
+[2017-09-25 10:00:59.734] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-25 10:01:46.906] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 10:01:47.525] [INFO] expense_server_express - new user
+[2017-09-25 10:01:47.530] [INFO] expense_server_express - new user registered
+[2017-09-25 10:01:47.588] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-25 10:02:22.845] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 10:02:23.572] [INFO] expense_server_express - new user
+[2017-09-25 10:02:23.578] [INFO] expense_server_express - new user registered
+[2017-09-25 10:02:23.632] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-25 10:03:48.659] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 10:03:49.265] [INFO] expense_server_express - new user
+[2017-09-25 10:03:49.271] [INFO] expense_server_express - new user registered
+[2017-09-25 10:03:49.325] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-25 10:04:38.566] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 10:04:39.312] [INFO] expense_server_express - new user
+[2017-09-25 10:04:39.318] [INFO] expense_server_express - new user registered
+[2017-09-25 10:04:39.375] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-25 10:05:09.127] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 10:05:09.733] [INFO] expense_server_express - new user
+[2017-09-25 10:05:09.738] [INFO] expense_server_express - new user registered
+[2017-09-25 10:05:09.795] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-25 10:06:20.841] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 10:06:21.445] [INFO] expense_server_express - new user
+[2017-09-25 10:06:21.450] [INFO] expense_server_express - new user registered
+[2017-09-25 10:06:21.506] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-25 10:07:11.529] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 10:07:12.123] [INFO] expense_server_express - new user
+[2017-09-25 10:07:12.128] [INFO] expense_server_express - new user registered
+[2017-09-25 10:07:12.183] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-25 10:07:35.125] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 10:07:35.736] [INFO] expense_server_express - new user
+[2017-09-25 10:07:35.741] [INFO] expense_server_express - new user registered
+[2017-09-25 10:07:35.803] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-25 10:08:14.950] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 10:08:15.676] [INFO] expense_server_express - new user
+[2017-09-25 10:08:15.681] [INFO] expense_server_express - new user registered
+[2017-09-25 10:08:15.740] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-25 10:10:14.336] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 10:10:14.988] [INFO] expense_server_express - new user
+[2017-09-25 10:10:14.993] [INFO] expense_server_express - new user registered
+[2017-09-25 10:10:47.626] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 10:10:48.235] [INFO] expense_server_express - new user
+[2017-09-25 10:10:48.241] [INFO] expense_server_express - new user registered
+[2017-09-25 10:11:36.792] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 10:11:37.407] [INFO] expense_server_express - new user
+[2017-09-25 10:11:37.413] [INFO] expense_server_express - new user registered
+[2017-09-25 10:11:57.196] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 10:11:57.832] [INFO] expense_server_express - new user
+[2017-09-25 10:11:57.838] [INFO] expense_server_express - new user registered
+[2017-09-25 10:13:00.980] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 10:13:01.584] [INFO] expense_server_express - new user
+[2017-09-25 10:13:01.589] [INFO] expense_server_express - new user registered
+[2017-09-25 10:13:01.644] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-25 10:14:58.216] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 10:14:58.825] [INFO] expense_server_express - new user
+[2017-09-25 10:14:58.831] [INFO] expense_server_express - new user registered
+[2017-09-25 10:16:04.143] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 10:16:04.749] [INFO] expense_server_express - new user
+[2017-09-25 10:16:04.754] [INFO] expense_server_express - new user registered
+[2017-09-25 10:16:35.521] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 10:16:36.127] [INFO] expense_server_express - new user
+[2017-09-25 10:16:36.132] [INFO] expense_server_express - new user registered
+[2017-09-25 10:17:06.653] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 10:17:07.247] [INFO] expense_server_express - new user
+[2017-09-25 10:17:07.252] [INFO] expense_server_express - new user registered
+[2017-09-25 10:17:22.304] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 10:17:22.908] [INFO] expense_server_express - new user
+[2017-09-25 10:17:22.913] [INFO] expense_server_express - new user registered
+[2017-09-25 10:19:24.238] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 10:19:24.863] [INFO] expense_server_express - new user
+[2017-09-25 10:19:24.869] [INFO] expense_server_express - new user registered
+[2017-09-25 10:19:24.932] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-09-25 10:20:03.873] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 10:20:04.484] [INFO] expense_server_express - new user
+[2017-09-25 10:20:04.490] [INFO] expense_server_express - new user registered
+[2017-09-25 10:20:42.810] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 10:20:43.417] [INFO] expense_server_express - new user
+[2017-09-25 10:20:43.423] [INFO] expense_server_express - new user registered
+[2017-09-25 10:21:15.287] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 10:21:15.897] [INFO] expense_server_express - new user
+[2017-09-25 10:21:15.903] [INFO] expense_server_express - new user registered
+[2017-09-25 10:41:48.879] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 10:41:49.489] [INFO] expense_server_express - new user
+[2017-09-25 10:41:49.495] [INFO] expense_server_express - new user registered
+[2017-09-25 11:30:36.863] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 13:54:08.990] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 13:54:09.599] [INFO] expense_server_express - new user
+[2017-09-25 13:54:09.605] [INFO] expense_server_express - new user registered
+[2017-09-25 15:05:05.473] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 15:05:06.270] [INFO] expense_server_express - new user
+[2017-09-25 15:05:06.278] [INFO] expense_server_express - new user registered
+[2017-09-25 15:20:14.117] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 15:20:14.917] [INFO] expense_server_express - new user
+[2017-09-25 15:20:14.923] [INFO] expense_server_express - new user registered
+[2017-09-25 15:20:27.280] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 15:20:28.060] [INFO] expense_server_express - new user
+[2017-09-25 15:20:28.067] [INFO] expense_server_express - new user registered
+[2017-09-25 15:20:56.159] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 15:20:56.961] [INFO] expense_server_express - new user
+[2017-09-25 15:20:56.968] [INFO] expense_server_express - new user registered
+[2017-09-25 15:35:45.075] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 15:35:45.871] [INFO] expense_server_express - new user
+[2017-09-25 15:35:45.878] [INFO] expense_server_express - new user registered
+[2017-09-25 15:35:58.748] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 15:35:59.564] [INFO] expense_server_express - new user
+[2017-09-25 15:35:59.572] [INFO] expense_server_express - new user registered
+[2017-09-25 15:40:10.953] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 15:41:21.765] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 15:41:22.558] [INFO] expense_server_express - new user
+[2017-09-25 15:41:22.565] [INFO] expense_server_express - new user registered
+[2017-09-25 15:48:09.338] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 15:48:10.139] [INFO] expense_server_express - new user
+[2017-09-25 15:48:10.146] [INFO] expense_server_express - new user registered
+[2017-09-25 15:48:21.772] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 15:48:22.583] [INFO] expense_server_express - new user
+[2017-09-25 15:48:22.591] [INFO] expense_server_express - new user registered
+[2017-09-25 15:48:45.700] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 15:48:46.537] [INFO] expense_server_express - new user
+[2017-09-25 15:48:46.545] [INFO] expense_server_express - new user registered
+[2017-09-25 15:49:35.045] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 15:49:35.860] [INFO] expense_server_express - new user
+[2017-09-25 15:49:35.867] [INFO] expense_server_express - new user registered
+[2017-09-25 15:57:57.354] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 15:57:58.164] [INFO] expense_server_express - new user
+[2017-09-25 15:57:58.171] [INFO] expense_server_express - new user registered
+[2017-09-25 15:58:14.015] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 15:58:14.839] [INFO] expense_server_express - new user
+[2017-09-25 15:58:14.846] [INFO] expense_server_express - new user registered
+[2017-09-25 15:58:26.853] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 15:58:27.664] [INFO] expense_server_express - new user
+[2017-09-25 15:58:27.672] [INFO] expense_server_express - new user registered
+[2017-09-25 16:01:41.552] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 16:01:42.360] [INFO] expense_server_express - new user
+[2017-09-25 16:01:42.367] [INFO] expense_server_express - new user registered
+[2017-09-25 18:00:16.453] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 18:00:17.252] [INFO] expense_server_express - new user
+[2017-09-25 18:00:17.258] [INFO] expense_server_express - new user registered
+[2017-09-25 19:21:49.411] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:21:50.202] [INFO] expense_server_express - new user
+[2017-09-25 19:21:50.209] [INFO] expense_server_express - new user registered
+[2017-09-25 19:21:59.158] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:21:59.969] [INFO] expense_server_express - new user
+[2017-09-25 19:21:59.977] [INFO] expense_server_express - new user registered
+[2017-09-25 19:23:08.557] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:23:09.358] [INFO] expense_server_express - new user
+[2017-09-25 19:23:09.366] [INFO] expense_server_express - new user registered
+[2017-09-25 19:23:41.355] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:23:42.165] [INFO] expense_server_express - new user
+[2017-09-25 19:23:42.172] [INFO] expense_server_express - new user registered
+[2017-09-25 19:25:54.270] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:25:55.080] [INFO] expense_server_express - new user
+[2017-09-25 19:25:55.088] [INFO] expense_server_express - new user registered
+[2017-09-25 19:27:04.366] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:27:05.197] [INFO] expense_server_express - new user
+[2017-09-25 19:27:05.204] [INFO] expense_server_express - new user registered
+[2017-09-25 19:27:52.760] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:27:53.593] [INFO] expense_server_express - new user
+[2017-09-25 19:27:53.600] [INFO] expense_server_express - new user registered
+[2017-09-25 19:28:09.279] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:28:10.086] [INFO] expense_server_express - new user
+[2017-09-25 19:28:10.093] [INFO] expense_server_express - new user registered
+[2017-09-25 19:28:43.933] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:28:44.749] [INFO] expense_server_express - new user
+[2017-09-25 19:28:44.756] [INFO] expense_server_express - new user registered
+[2017-09-25 19:29:01.320] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:29:02.152] [INFO] expense_server_express - new user
+[2017-09-25 19:29:02.160] [INFO] expense_server_express - new user registered
+[2017-09-25 19:29:35.790] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:29:36.604] [INFO] expense_server_express - new user
+[2017-09-25 19:29:36.612] [INFO] expense_server_express - new user registered
+[2017-09-25 19:31:28.042] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:31:28.856] [INFO] expense_server_express - new user
+[2017-09-25 19:31:28.863] [INFO] expense_server_express - new user registered
+[2017-09-25 19:32:03.282] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:32:04.090] [INFO] expense_server_express - new user
+[2017-09-25 19:32:04.097] [INFO] expense_server_express - new user registered
+[2017-09-25 19:33:23.150] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:33:23.967] [INFO] expense_server_express - new user
+[2017-09-25 19:33:23.974] [INFO] expense_server_express - new user registered
+[2017-09-25 19:34:16.321] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:34:17.125] [INFO] expense_server_express - new user
+[2017-09-25 19:34:17.132] [INFO] expense_server_express - new user registered
+[2017-09-25 19:34:32.693] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:34:33.490] [INFO] expense_server_express - new user
+[2017-09-25 19:34:33.497] [INFO] expense_server_express - new user registered
+[2017-09-25 19:34:51.411] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:34:52.218] [INFO] expense_server_express - new user
+[2017-09-25 19:34:52.225] [INFO] expense_server_express - new user registered
+[2017-09-25 19:38:01.000] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:38:01.812] [INFO] expense_server_express - new user
+[2017-09-25 19:38:01.819] [INFO] expense_server_express - new user registered
+[2017-09-25 19:38:01.844] [INFO] expense_server_express - new user
+[2017-09-25 19:38:01.845] [INFO] expense_server_express - new user registered
+[2017-09-25 19:38:01.854] [INFO] expense_server_express - new user
+[2017-09-25 19:38:01.855] [INFO] expense_server_express - new user registered
+[2017-09-25 19:38:01.864] [INFO] expense_server_express - new user
+[2017-09-25 19:38:01.865] [INFO] expense_server_express - new user registered
+[2017-09-25 19:38:01.870] [INFO] expense_server_express - new user
+[2017-09-25 19:38:01.871] [INFO] expense_server_express - new user registered
+[2017-09-25 19:40:59.779] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:41:00.610] [INFO] expense_server_express - new user
+[2017-09-25 19:41:00.617] [INFO] expense_server_express - new user registered
+[2017-09-25 19:41:00.641] [INFO] expense_server_express - new user
+[2017-09-25 19:41:00.642] [INFO] expense_server_express - new user registered
+[2017-09-25 19:41:00.651] [INFO] expense_server_express - new user
+[2017-09-25 19:41:00.651] [INFO] expense_server_express - new user registered
+[2017-09-25 19:41:00.658] [INFO] expense_server_express - new user
+[2017-09-25 19:41:00.659] [INFO] expense_server_express - new user registered
+[2017-09-25 19:41:00.664] [INFO] expense_server_express - new user
+[2017-09-25 19:41:00.664] [INFO] expense_server_express - new user registered
+[2017-09-25 19:42:38.664] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:42:39.472] [INFO] expense_server_express - new user
+[2017-09-25 19:42:39.480] [INFO] expense_server_express - new user registered
+[2017-09-25 19:42:39.505] [INFO] expense_server_express - new user
+[2017-09-25 19:42:39.506] [INFO] expense_server_express - new user registered
+[2017-09-25 19:42:39.514] [INFO] expense_server_express - new user
+[2017-09-25 19:42:39.514] [INFO] expense_server_express - new user registered
+[2017-09-25 19:42:39.521] [INFO] expense_server_express - new user
+[2017-09-25 19:42:39.521] [INFO] expense_server_express - new user registered
+[2017-09-25 19:42:39.526] [INFO] expense_server_express - new user
+[2017-09-25 19:42:39.527] [INFO] expense_server_express - new user registered
+[2017-09-25 19:43:05.725] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:43:06.538] [INFO] expense_server_express - new user
+[2017-09-25 19:43:06.546] [INFO] expense_server_express - new user registered
+[2017-09-25 19:43:06.569] [INFO] expense_server_express - new user
+[2017-09-25 19:43:06.570] [INFO] expense_server_express - new user registered
+[2017-09-25 19:43:06.577] [INFO] expense_server_express - new user
+[2017-09-25 19:43:06.578] [INFO] expense_server_express - new user registered
+[2017-09-25 19:43:06.584] [INFO] expense_server_express - new user
+[2017-09-25 19:43:06.584] [INFO] expense_server_express - new user registered
+[2017-09-25 19:43:06.588] [INFO] expense_server_express - new user
+[2017-09-25 19:43:06.589] [INFO] expense_server_express - new user registered
+[2017-09-25 19:43:36.532] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:43:37.348] [INFO] expense_server_express - new user
+[2017-09-25 19:43:37.355] [INFO] expense_server_express - new user registered
+[2017-09-25 19:43:37.378] [INFO] expense_server_express - new user
+[2017-09-25 19:43:37.379] [INFO] expense_server_express - new user registered
+[2017-09-25 19:43:37.386] [INFO] expense_server_express - new user
+[2017-09-25 19:43:37.387] [INFO] expense_server_express - new user registered
+[2017-09-25 19:43:37.393] [INFO] expense_server_express - new user
+[2017-09-25 19:43:37.393] [INFO] expense_server_express - new user registered
+[2017-09-25 19:43:37.397] [INFO] expense_server_express - new user
+[2017-09-25 19:43:37.397] [INFO] expense_server_express - new user registered
+[2017-09-25 19:44:03.596] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:44:04.429] [INFO] expense_server_express - new user
+[2017-09-25 19:44:04.436] [INFO] expense_server_express - new user registered
+[2017-09-25 19:44:04.459] [INFO] expense_server_express - new user
+[2017-09-25 19:44:04.460] [INFO] expense_server_express - new user registered
+[2017-09-25 19:44:04.468] [INFO] expense_server_express - new user
+[2017-09-25 19:44:04.468] [INFO] expense_server_express - new user registered
+[2017-09-25 19:44:04.474] [INFO] expense_server_express - new user
+[2017-09-25 19:44:04.475] [INFO] expense_server_express - new user registered
+[2017-09-25 19:44:04.478] [INFO] expense_server_express - new user
+[2017-09-25 19:44:04.479] [INFO] expense_server_express - new user registered
+[2017-09-25 19:44:25.366] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:44:26.173] [INFO] expense_server_express - new user
+[2017-09-25 19:44:26.180] [INFO] expense_server_express - new user registered
+[2017-09-25 19:44:26.203] [INFO] expense_server_express - new user
+[2017-09-25 19:44:26.204] [INFO] expense_server_express - new user registered
+[2017-09-25 19:44:26.211] [INFO] expense_server_express - new user
+[2017-09-25 19:44:26.211] [INFO] expense_server_express - new user registered
+[2017-09-25 19:44:26.216] [INFO] expense_server_express - new user
+[2017-09-25 19:44:26.217] [INFO] expense_server_express - new user registered
+[2017-09-25 19:44:26.221] [INFO] expense_server_express - new user
+[2017-09-25 19:44:26.222] [INFO] expense_server_express - new user registered
+[2017-09-25 19:44:56.283] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:44:57.083] [INFO] expense_server_express - new user
+[2017-09-25 19:44:57.090] [INFO] expense_server_express - new user registered
+[2017-09-25 19:44:57.113] [INFO] expense_server_express - new user
+[2017-09-25 19:44:57.114] [INFO] expense_server_express - new user registered
+[2017-09-25 19:44:57.123] [INFO] expense_server_express - new user
+[2017-09-25 19:44:57.124] [INFO] expense_server_express - new user registered
+[2017-09-25 19:44:57.130] [INFO] expense_server_express - new user
+[2017-09-25 19:44:57.130] [INFO] expense_server_express - new user registered
+[2017-09-25 19:44:57.135] [INFO] expense_server_express - new user
+[2017-09-25 19:44:57.135] [INFO] expense_server_express - new user registered
+[2017-09-25 19:45:10.726] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:45:11.535] [INFO] expense_server_express - new user
+[2017-09-25 19:45:11.542] [INFO] expense_server_express - new user registered
+[2017-09-25 19:45:11.567] [INFO] expense_server_express - new user
+[2017-09-25 19:45:11.568] [INFO] expense_server_express - new user registered
+[2017-09-25 19:45:11.575] [INFO] expense_server_express - new user
+[2017-09-25 19:45:11.575] [INFO] expense_server_express - new user registered
+[2017-09-25 19:45:11.580] [INFO] expense_server_express - new user
+[2017-09-25 19:45:11.581] [INFO] expense_server_express - new user registered
+[2017-09-25 19:45:11.585] [INFO] expense_server_express - new user
+[2017-09-25 19:45:11.586] [INFO] expense_server_express - new user registered
+[2017-09-25 19:46:14.055] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:46:14.868] [INFO] expense_server_express - new user
+[2017-09-25 19:46:14.875] [INFO] expense_server_express - new user registered
+[2017-09-25 19:46:14.898] [INFO] expense_server_express - new user
+[2017-09-25 19:46:14.899] [INFO] expense_server_express - new user registered
+[2017-09-25 19:46:14.906] [INFO] expense_server_express - new user
+[2017-09-25 19:46:14.907] [INFO] expense_server_express - new user registered
+[2017-09-25 19:46:14.912] [INFO] expense_server_express - new user
+[2017-09-25 19:46:14.912] [INFO] expense_server_express - new user registered
+[2017-09-25 19:46:14.917] [INFO] expense_server_express - new user
+[2017-09-25 19:46:14.917] [INFO] expense_server_express - new user registered
+[2017-09-25 19:47:59.040] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:47:59.854] [INFO] expense_server_express - new user
+[2017-09-25 19:47:59.862] [INFO] expense_server_express - new user registered
+[2017-09-25 19:47:59.886] [INFO] expense_server_express - new user
+[2017-09-25 19:47:59.887] [INFO] expense_server_express - new user registered
+[2017-09-25 19:47:59.895] [INFO] expense_server_express - new user
+[2017-09-25 19:47:59.896] [INFO] expense_server_express - new user registered
+[2017-09-25 19:47:59.903] [INFO] expense_server_express - new user
+[2017-09-25 19:47:59.903] [INFO] expense_server_express - new user registered
+[2017-09-25 19:47:59.909] [INFO] expense_server_express - new user
+[2017-09-25 19:47:59.910] [INFO] expense_server_express - new user registered
+[2017-09-25 19:49:37.274] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:49:38.072] [INFO] expense_server_express - new user
+[2017-09-25 19:49:38.079] [INFO] expense_server_express - new user registered
+[2017-09-25 19:49:38.103] [INFO] expense_server_express - new user
+[2017-09-25 19:49:38.104] [INFO] expense_server_express - new user registered
+[2017-09-25 19:49:38.113] [INFO] expense_server_express - new user
+[2017-09-25 19:49:38.114] [INFO] expense_server_express - new user registered
+[2017-09-25 19:49:38.124] [INFO] expense_server_express - new user
+[2017-09-25 19:49:38.125] [INFO] expense_server_express - new user registered
+[2017-09-25 19:49:38.130] [INFO] expense_server_express - new user
+[2017-09-25 19:49:38.131] [INFO] expense_server_express - new user registered
+[2017-09-25 19:49:51.520] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:49:52.317] [INFO] expense_server_express - new user
+[2017-09-25 19:49:52.325] [INFO] expense_server_express - new user registered
+[2017-09-25 19:49:52.348] [INFO] expense_server_express - new user
+[2017-09-25 19:49:52.349] [INFO] expense_server_express - new user registered
+[2017-09-25 19:49:52.356] [INFO] expense_server_express - new user
+[2017-09-25 19:49:52.357] [INFO] expense_server_express - new user registered
+[2017-09-25 19:49:52.362] [INFO] expense_server_express - new user
+[2017-09-25 19:49:52.363] [INFO] expense_server_express - new user registered
+[2017-09-25 19:49:52.367] [INFO] expense_server_express - new user
+[2017-09-25 19:49:52.367] [INFO] expense_server_express - new user registered
+[2017-09-25 19:50:46.554] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:50:47.354] [INFO] expense_server_express - new user
+[2017-09-25 19:50:47.362] [INFO] expense_server_express - new user registered
+[2017-09-25 19:50:47.387] [INFO] expense_server_express - new user
+[2017-09-25 19:50:47.388] [INFO] expense_server_express - new user registered
+[2017-09-25 19:50:47.394] [INFO] expense_server_express - new user
+[2017-09-25 19:50:47.395] [INFO] expense_server_express - new user registered
+[2017-09-25 19:50:47.400] [INFO] expense_server_express - new user
+[2017-09-25 19:50:47.401] [INFO] expense_server_express - new user registered
+[2017-09-25 19:50:47.405] [INFO] expense_server_express - new user
+[2017-09-25 19:50:47.406] [INFO] expense_server_express - new user registered
+[2017-09-25 19:51:19.204] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:51:20.024] [INFO] expense_server_express - new user
+[2017-09-25 19:51:20.032] [INFO] expense_server_express - new user registered
+[2017-09-25 19:51:20.057] [INFO] expense_server_express - new user
+[2017-09-25 19:51:20.058] [INFO] expense_server_express - new user registered
+[2017-09-25 19:51:20.065] [INFO] expense_server_express - new user
+[2017-09-25 19:51:20.065] [INFO] expense_server_express - new user registered
+[2017-09-25 19:51:20.070] [INFO] expense_server_express - new user
+[2017-09-25 19:51:20.071] [INFO] expense_server_express - new user registered
+[2017-09-25 19:51:20.076] [INFO] expense_server_express - new user
+[2017-09-25 19:51:20.076] [INFO] expense_server_express - new user registered
+[2017-09-25 19:52:35.725] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:52:36.535] [INFO] expense_server_express - new user
+[2017-09-25 19:52:36.543] [INFO] expense_server_express - new user registered
+[2017-09-25 19:52:36.567] [INFO] expense_server_express - new user
+[2017-09-25 19:52:36.568] [INFO] expense_server_express - new user registered
+[2017-09-25 19:52:36.575] [INFO] expense_server_express - new user
+[2017-09-25 19:52:36.575] [INFO] expense_server_express - new user registered
+[2017-09-25 19:52:36.581] [INFO] expense_server_express - new user
+[2017-09-25 19:52:36.582] [INFO] expense_server_express - new user registered
+[2017-09-25 19:52:36.586] [INFO] expense_server_express - new user
+[2017-09-25 19:52:36.586] [INFO] expense_server_express - new user registered
+[2017-09-25 19:55:16.745] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:55:17.558] [INFO] expense_server_express - new user
+[2017-09-25 19:55:17.565] [INFO] expense_server_express - new user registered
+[2017-09-25 19:55:17.589] [INFO] expense_server_express - new user
+[2017-09-25 19:55:17.590] [INFO] expense_server_express - new user registered
+[2017-09-25 19:55:17.597] [INFO] expense_server_express - new user
+[2017-09-25 19:55:17.597] [INFO] expense_server_express - new user registered
+[2017-09-25 19:55:17.603] [INFO] expense_server_express - new user
+[2017-09-25 19:55:17.603] [INFO] expense_server_express - new user registered
+[2017-09-25 19:55:17.608] [INFO] expense_server_express - new user
+[2017-09-25 19:55:17.608] [INFO] expense_server_express - new user registered
+[2017-09-25 19:55:38.109] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:55:38.919] [INFO] expense_server_express - new user
+[2017-09-25 19:55:38.926] [INFO] expense_server_express - new user registered
+[2017-09-25 19:55:38.950] [INFO] expense_server_express - new user
+[2017-09-25 19:55:38.950] [INFO] expense_server_express - new user registered
+[2017-09-25 19:55:38.959] [INFO] expense_server_express - new user
+[2017-09-25 19:55:38.959] [INFO] expense_server_express - new user registered
+[2017-09-25 19:55:38.966] [INFO] expense_server_express - new user
+[2017-09-25 19:55:38.966] [INFO] expense_server_express - new user registered
+[2017-09-25 19:55:38.972] [INFO] expense_server_express - new user
+[2017-09-25 19:55:38.973] [INFO] expense_server_express - new user registered
+[2017-09-25 19:56:01.336] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:56:02.133] [INFO] expense_server_express - new user
+[2017-09-25 19:56:02.141] [INFO] expense_server_express - new user registered
+[2017-09-25 19:56:02.165] [INFO] expense_server_express - new user
+[2017-09-25 19:56:02.166] [INFO] expense_server_express - new user registered
+[2017-09-25 19:56:02.174] [INFO] expense_server_express - new user
+[2017-09-25 19:56:02.174] [INFO] expense_server_express - new user registered
+[2017-09-25 19:56:02.181] [INFO] expense_server_express - new user
+[2017-09-25 19:56:02.182] [INFO] expense_server_express - new user registered
+[2017-09-25 19:56:02.186] [INFO] expense_server_express - new user
+[2017-09-25 19:56:02.187] [INFO] expense_server_express - new user registered
+[2017-09-25 19:57:03.982] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:57:04.793] [INFO] expense_server_express - new user
+[2017-09-25 19:57:04.800] [INFO] expense_server_express - new user registered
+[2017-09-25 19:57:04.825] [INFO] expense_server_express - new user
+[2017-09-25 19:57:04.826] [INFO] expense_server_express - new user registered
+[2017-09-25 19:57:04.833] [INFO] expense_server_express - new user
+[2017-09-25 19:57:04.833] [INFO] expense_server_express - new user registered
+[2017-09-25 19:57:04.839] [INFO] expense_server_express - new user
+[2017-09-25 19:57:04.840] [INFO] expense_server_express - new user registered
+[2017-09-25 19:57:04.844] [INFO] expense_server_express - new user
+[2017-09-25 19:57:04.845] [INFO] expense_server_express - new user registered
+[2017-09-25 19:57:51.628] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 19:57:52.422] [INFO] expense_server_express - new user
+[2017-09-25 19:57:52.429] [INFO] expense_server_express - new user registered
+[2017-09-25 19:57:52.453] [INFO] expense_server_express - new user
+[2017-09-25 19:57:52.454] [INFO] expense_server_express - new user registered
+[2017-09-25 19:57:52.462] [INFO] expense_server_express - new user
+[2017-09-25 19:57:52.462] [INFO] expense_server_express - new user registered
+[2017-09-25 19:57:52.470] [INFO] expense_server_express - new user
+[2017-09-25 19:57:52.470] [INFO] expense_server_express - new user registered
+[2017-09-25 19:57:52.475] [INFO] expense_server_express - new user
+[2017-09-25 19:57:52.475] [INFO] expense_server_express - new user registered
+[2017-09-25 20:00:20.768] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-25 20:00:21.594] [INFO] expense_server_express - new user
+[2017-09-25 20:00:21.601] [INFO] expense_server_express - new user registered
+[2017-09-25 20:00:21.626] [INFO] expense_server_express - new user
+[2017-09-25 20:00:21.627] [INFO] expense_server_express - new user registered
+[2017-09-25 20:00:21.633] [INFO] expense_server_express - new user
+[2017-09-25 20:00:21.634] [INFO] expense_server_express - new user registered
+[2017-09-25 20:00:21.639] [INFO] expense_server_express - new user
+[2017-09-25 20:00:21.640] [INFO] expense_server_express - new user registered
+[2017-09-25 20:00:21.644] [INFO] expense_server_express - new user
+[2017-09-25 20:00:21.645] [INFO] expense_server_express - new user registered
+[2017-09-26 17:37:27.250] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-26 17:39:51.451] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-26 17:39:52.121] [INFO] expense_server_express - new user
+[2017-09-26 17:39:52.127] [INFO] expense_server_express - new user registered
+[2017-09-26 17:39:52.146] [INFO] expense_server_express - new user
+[2017-09-26 17:39:52.147] [INFO] expense_server_express - new user registered
+[2017-09-26 17:39:52.153] [INFO] expense_server_express - new user
+[2017-09-26 17:39:52.154] [INFO] expense_server_express - new user registered
+[2017-09-26 17:39:52.160] [INFO] expense_server_express - new user
+[2017-09-26 17:39:52.161] [INFO] expense_server_express - new user registered
+[2017-09-26 17:39:52.167] [INFO] expense_server_express - new user
+[2017-09-26 17:39:52.167] [INFO] expense_server_express - new user registered
+[2017-09-27 08:29:30.622] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-27 08:29:32.531] [INFO] expense_server_express - new user
+[2017-09-27 08:29:32.537] [INFO] expense_server_express - new user registered
+[2017-09-27 08:29:32.554] [INFO] expense_server_express - new user
+[2017-09-27 08:29:32.555] [INFO] expense_server_express - new user registered
+[2017-09-27 08:29:32.561] [INFO] expense_server_express - new user
+[2017-09-27 08:29:32.561] [INFO] expense_server_express - new user registered
+[2017-09-27 08:29:32.566] [INFO] expense_server_express - new user
+[2017-09-27 08:29:32.566] [INFO] expense_server_express - new user registered
+[2017-09-27 08:29:32.569] [INFO] expense_server_express - new user
+[2017-09-27 08:29:32.570] [INFO] expense_server_express - new user registered
+[2017-09-27 08:30:40.319] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-27 08:30:41.098] [INFO] expense_server_express - new user
+[2017-09-27 08:30:41.104] [INFO] expense_server_express - new user registered
+[2017-09-27 08:30:41.122] [INFO] expense_server_express - new user
+[2017-09-27 08:30:41.122] [INFO] expense_server_express - new user registered
+[2017-09-27 08:30:41.129] [INFO] expense_server_express - new user
+[2017-09-27 08:30:41.129] [INFO] expense_server_express - new user registered
+[2017-09-27 08:30:41.134] [INFO] expense_server_express - new user
+[2017-09-27 08:30:41.134] [INFO] expense_server_express - new user registered
+[2017-09-27 08:30:41.139] [INFO] expense_server_express - new user
+[2017-09-27 08:30:41.140] [INFO] expense_server_express - new user registered
+[2017-09-27 08:32:11.151] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-27 08:32:11.760] [INFO] expense_server_express - new user
+[2017-09-27 08:32:11.765] [INFO] expense_server_express - new user registered
+[2017-09-27 08:32:11.783] [INFO] expense_server_express - new user
+[2017-09-27 08:32:11.784] [INFO] expense_server_express - new user registered
+[2017-09-27 08:32:11.792] [INFO] expense_server_express - new user
+[2017-09-27 08:32:11.793] [INFO] expense_server_express - new user registered
+[2017-09-27 08:32:11.799] [INFO] expense_server_express - new user
+[2017-09-27 08:32:11.799] [INFO] expense_server_express - new user registered
+[2017-09-27 08:32:11.804] [INFO] expense_server_express - new user
+[2017-09-27 08:32:11.804] [INFO] expense_server_express - new user registered
+[2017-09-27 08:32:36.969] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-27 08:32:40.935] [INFO] expense_server_express - new user
+[2017-09-27 08:32:40.941] [INFO] expense_server_express - new user registered
+[2017-09-27 08:32:40.959] [INFO] expense_server_express - new user
+[2017-09-27 08:32:40.960] [INFO] expense_server_express - new user registered
+[2017-09-27 08:32:40.966] [INFO] expense_server_express - new user
+[2017-09-27 08:32:40.966] [INFO] expense_server_express - new user registered
+[2017-09-27 08:32:40.970] [INFO] expense_server_express - new user
+[2017-09-27 08:32:40.971] [INFO] expense_server_express - new user registered
+[2017-09-27 08:32:40.974] [INFO] expense_server_express - new user
+[2017-09-27 08:32:40.974] [INFO] expense_server_express - new user registered
+[2017-09-27 14:32:15.738] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-27 14:32:17.177] [INFO] expense_server_express - new user
+[2017-09-27 14:32:17.185] [INFO] expense_server_express - new user registered
+[2017-09-27 14:32:17.206] [INFO] expense_server_express - new user
+[2017-09-27 14:32:17.207] [INFO] expense_server_express - new user registered
+[2017-09-27 14:32:17.213] [INFO] expense_server_express - new user
+[2017-09-27 14:32:17.214] [INFO] expense_server_express - new user registered
+[2017-09-27 14:32:17.218] [INFO] expense_server_express - new user
+[2017-09-27 14:32:17.218] [INFO] expense_server_express - new user registered
+[2017-09-27 14:32:17.221] [INFO] expense_server_express - new user
+[2017-09-27 14:32:17.221] [INFO] expense_server_express - new user registered
+[2017-09-27 15:15:28.731] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-27 15:15:30.257] [INFO] expense_server_express - new user
+[2017-09-27 15:15:30.264] [INFO] expense_server_express - new user registered
+[2017-09-27 15:15:30.289] [INFO] expense_server_express - new user
+[2017-09-27 15:15:30.290] [INFO] expense_server_express - new user registered
+[2017-09-27 15:15:30.297] [INFO] expense_server_express - new user
+[2017-09-27 15:15:30.297] [INFO] expense_server_express - new user registered
+[2017-09-27 15:15:30.302] [INFO] expense_server_express - new user
+[2017-09-27 15:15:30.302] [INFO] expense_server_express - new user registered
+[2017-09-27 15:15:30.306] [INFO] expense_server_express - new user
+[2017-09-27 15:15:30.306] [INFO] expense_server_express - new user registered
+[2017-09-27 15:46:38.605] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-27 15:46:39.588] [INFO] expense_server_express - new user
+[2017-09-27 15:46:39.596] [INFO] expense_server_express - new user registered
+[2017-09-27 15:46:39.619] [INFO] expense_server_express - new user
+[2017-09-27 15:46:39.619] [INFO] expense_server_express - new user registered
+[2017-09-27 15:46:39.627] [INFO] expense_server_express - new user
+[2017-09-27 15:46:39.628] [INFO] expense_server_express - new user registered
+[2017-09-27 15:46:39.634] [INFO] expense_server_express - new user
+[2017-09-27 15:46:39.635] [INFO] expense_server_express - new user registered
+[2017-09-27 15:46:39.640] [INFO] expense_server_express - new user
+[2017-09-27 15:46:39.640] [INFO] expense_server_express - new user registered
+[2017-09-27 16:13:28.654] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-27 16:19:49.512] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-27 16:44:30.577] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-28 11:25:18.421] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-28 11:25:19.698] [INFO] expense_server_express - new user
+[2017-09-28 11:25:19.706] [INFO] expense_server_express - new user registered
+[2017-09-28 11:25:19.735] [INFO] expense_server_express - new user
+[2017-09-28 11:25:19.736] [INFO] expense_server_express - new user registered
+[2017-09-28 11:25:19.744] [INFO] expense_server_express - new user
+[2017-09-28 11:25:19.745] [INFO] expense_server_express - new user registered
+[2017-09-28 11:25:19.754] [INFO] expense_server_express - new user
+[2017-09-28 11:25:19.754] [INFO] expense_server_express - new user registered
+[2017-09-28 11:25:19.760] [INFO] expense_server_express - new user
+[2017-09-28 11:25:19.761] [INFO] expense_server_express - new user registered
+[2017-09-28 11:25:34.253] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-28 11:55:10.220] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-28 12:29:53.771] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-28 12:29:54.625] [INFO] expense_server_express - new user
+[2017-09-28 12:29:54.632] [INFO] expense_server_express - new user registered
+[2017-09-28 12:29:54.656] [INFO] expense_server_express - new user
+[2017-09-28 12:29:54.657] [INFO] expense_server_express - new user registered
+[2017-09-28 12:29:54.665] [INFO] expense_server_express - new user
+[2017-09-28 12:29:54.665] [INFO] expense_server_express - new user registered
+[2017-09-28 12:29:54.671] [INFO] expense_server_express - new user
+[2017-09-28 12:29:54.671] [INFO] expense_server_express - new user registered
+[2017-09-28 12:29:54.676] [INFO] expense_server_express - new user
+[2017-09-28 12:29:54.676] [INFO] expense_server_express - new user registered
+[2017-09-28 20:00:48.192] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-28 20:00:49.509] [INFO] expense_server_express - new user
+[2017-09-28 20:00:49.516] [INFO] expense_server_express - new user registered
+[2017-09-28 20:00:49.537] [INFO] expense_server_express - new user
+[2017-09-28 20:00:49.538] [INFO] expense_server_express - new user registered
+[2017-09-28 20:00:49.546] [INFO] expense_server_express - new user
+[2017-09-28 20:00:49.546] [INFO] expense_server_express - new user registered
+[2017-09-28 20:00:49.550] [INFO] expense_server_express - new user
+[2017-09-28 20:00:49.551] [INFO] expense_server_express - new user registered
+[2017-09-28 20:00:49.559] [INFO] expense_server_express - new user
+[2017-09-28 20:00:49.559] [INFO] expense_server_express - new user registered
+[2017-09-28 20:01:02.013] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-29 09:20:30.896] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-29 09:20:32.092] [INFO] expense_server_express - new user
+[2017-09-29 09:20:32.098] [INFO] expense_server_express - new user registered
+[2017-09-29 09:20:32.116] [INFO] expense_server_express - new user
+[2017-09-29 09:20:32.117] [INFO] expense_server_express - new user registered
+[2017-09-29 09:20:32.123] [INFO] expense_server_express - new user
+[2017-09-29 09:20:32.124] [INFO] expense_server_express - new user registered
+[2017-09-29 09:20:32.129] [INFO] expense_server_express - new user
+[2017-09-29 09:20:32.129] [INFO] expense_server_express - new user registered
+[2017-09-29 09:20:32.133] [INFO] expense_server_express - new user
+[2017-09-29 09:20:32.134] [INFO] expense_server_express - new user registered
+[2017-09-29 09:20:40.086] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+
+
+[2017-09-29 14:29:55.621] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-29 14:55:47.234] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-09-29 14:58:19.257] [INFO] expense_server_express - user already exists
+[2017-10-03 10:28:49.960] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-03 10:46:24.732] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-03 10:48:39.902] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-03 10:53:25.863] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-03 11:39:28.827] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-03 11:40:11.214] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 11:40:11.256] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 11:40:33.655] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 11:40:33.693] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 11:40:42.367] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 11:40:42.393] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 11:44:24.656] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-03 11:45:46.193] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 11:45:46.239] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 11:48:06.895] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-03 11:48:58.197] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 11:48:58.253] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 11:50:22.172] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-03 11:52:08.365] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 11:52:08.391] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 11:53:59.234] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-03 11:55:14.499] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 11:55:14.523] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 12:07:17.708] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-03 12:08:48.923] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-03 12:12:26.090] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 12:12:26.115] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 12:15:59.259] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-03 12:17:24.994] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 12:17:25.021] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 12:30:22.266] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-03 12:31:55.206] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 12:31:55.237] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 13:41:15.519] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-03 13:41:53.213] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 13:41:53.252] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 14:13:06.394] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-03 14:13:52.376] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 14:13:52.408] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 14:14:01.999] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 14:14:02.023] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 14:14:08.793] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 14:14:08.820] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 14:14:19.469] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 14:14:19.497] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 14:18:15.233] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-03 14:20:07.505] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 14:20:07.548] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 14:23:21.812] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-03 14:24:08.650] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 14:24:08.676] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 14:24:17.877] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 14:24:17.909] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 14:25:03.292] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 14:25:03.321] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 14:25:10.815] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 14:25:10.839] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 15:14:31.170] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 15:14:31.195] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 15:18:01.805] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-03 15:18:40.253] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 15:18:40.281] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 15:19:18.402] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 15:19:18.437] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 15:19:30.125] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 15:19:30.149] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 15:23:28.797] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 15:23:28.829] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 15:34:33.290] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 15:34:33.327] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 15:36:10.050] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 15:36:10.079] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 20:07:31.219] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-03 20:07:31.254] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-05 14:34:17.201] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-05 14:37:02.259] [INFO] expense_server_express - new user
+[2017-10-05 14:41:03.589] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-05 14:41:16.046] [INFO] expense_server_express - new user
+[2017-10-05 14:41:49.097] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-05 14:42:16.494] [INFO] expense_server_express - new user
+[2017-10-05 14:42:53.811] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-05 14:42:59.422] [INFO] expense_server_express - new user
+[2017-10-05 14:42:59.451] [ERROR] expense_server_express - ValidationError: gender: Path `gender` is required. problem with registering new user register.js:25
+[2017-10-05 14:43:42.474] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-05 14:43:52.815] [INFO] expense_server_express - new user
+[2017-10-05 14:43:52.846] [ERROR] expense_server_express - ValidationError: gender: Path `gender` is required. problem with registering new user register.js:25
+[2017-10-05 14:44:26.335] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-05 14:44:31.573] [INFO] expense_server_express - new user
+[2017-10-05 14:44:31.604] [ERROR] expense_server_express - ValidationError: gender: Path `gender` is required. problem with registering new user register.js:25
+[2017-10-05 14:46:23.063] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-05 14:46:30.793] [INFO] expense_server_express - new user
+[2017-10-05 14:46:30.830] [INFO] expense_server_express - new user registered
+[2017-10-05 14:50:06.001] [INFO] expense_server_express - new user
+[2017-10-05 14:50:06.010] [INFO] expense_server_express - new user registered
+[2017-10-05 14:50:52.601] [INFO] expense_server_express - new user
+[2017-10-05 14:50:52.608] [INFO] expense_server_express - new user registered
+[2017-10-05 14:53:54.613] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-05 14:54:03.077] [INFO] expense_server_express - new user
+[2017-10-05 14:55:34.915] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-05 14:55:38.784] [INFO] expense_server_express - new user
+[2017-10-05 14:55:38.821] [INFO] expense_server_express - new user registered
+[2017-10-05 14:57:32.423] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-05 14:57:43.665] [INFO] expense_server_express - new user
+[2017-10-05 14:57:43.707] [INFO] expense_server_express - new user registered
+[2017-10-05 15:00:01.573] [INFO] expense_server_express - user already exists
+[2017-10-05 15:00:06.619] [INFO] expense_server_express - new user
+[2017-10-05 15:00:06.626] [INFO] expense_server_express - new user registered
+[2017-10-05 15:01:08.975] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-05 15:01:18.543] [INFO] expense_server_express - new user
+[2017-10-05 15:01:18.579] [INFO] expense_server_express - new user registered
+[2017-10-05 15:01:43.577] [INFO] expense_server_express - new user
+[2017-10-05 15:01:43.586] [INFO] expense_server_express - new user registered
+[2017-10-05 15:07:44.169] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-05 15:07:55.581] [INFO] expense_server_express - new user
+[2017-10-05 15:07:55.618] [INFO] expense_server_express - new user registered
+[2017-10-05 15:09:12.904] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-05 15:09:20.289] [INFO] expense_server_express - new user
+[2017-10-05 15:09:20.325] [INFO] expense_server_express - new user registered
+[2017-10-05 15:20:49.475] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-05 15:22:46.378] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-05 15:26:34.321] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-05 15:28:40.166] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-05 15:29:07.304] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-05 15:29:17.303] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-05 15:31:25.717] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-05 15:32:48.726] [INFO] expense_server_express - new user
+[2017-10-05 15:32:48.764] [INFO] expense_server_express - new user registered
+[2017-10-05 15:33:43.513] [INFO] expense_server_express - new user
+[2017-10-05 15:33:43.519] [INFO] expense_server_express - new user registered
+[2017-10-05 15:39:16.718] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-05 16:16:49.432] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-05 18:54:51.589] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-05 18:55:53.794] [INFO] expense_server_express - new user
+[2017-10-05 19:17:00.363] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-05 19:17:27.288] [INFO] expense_server_express - new user
+[2017-10-05 23:21:14.273] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-05 23:21:26.301] [INFO] expense_server_express - new user
+[2017-10-05 23:29:19.458] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-05 23:29:25.637] [INFO] expense_server_express - new user
+[2017-10-05 23:29:26.095] [INFO] expense_server_express - new user registered
+[2017-10-05 23:45:17.556] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-05 23:46:06.245] [INFO] expense_server_express - user already exists
+[2017-10-05 23:47:48.330] [INFO] expense_server_express - user already exists
+[2017-10-05 23:50:26.659] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-05 23:58:00.348] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 00:12:08.710] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 00:26:18.639] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 00:26:58.644] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 00:28:51.230] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 00:29:37.934] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 00:31:13.189] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 00:33:24.967] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 00:44:30.620] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 00:46:08.154] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 00:47:58.103] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 00:52:21.211] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 08:41:23.017] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 08:43:06.853] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 08:43:08.280] [INFO] expense_server_express - new user
+[2017-10-06 08:43:08.597] [INFO] expense_server_express - new user registered
+[2017-10-06 08:45:33.410] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 08:53:54.451] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 15:51:13.020] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 17:03:36.787] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 17:36:54.314] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 17:36:55.567] [INFO] expense_server_express - new user
+[2017-10-06 17:36:55.577] [INFO] expense_server_express - new user registered
+[2017-10-06 17:36:55.605] [INFO] expense_server_express - new user
+[2017-10-06 17:36:55.606] [INFO] expense_server_express - new user registered
+[2017-10-06 17:36:55.615] [INFO] expense_server_express - new user
+[2017-10-06 17:36:55.616] [INFO] expense_server_express - new user registered
+[2017-10-06 17:36:55.623] [INFO] expense_server_express - new user
+[2017-10-06 17:36:55.623] [INFO] expense_server_express - new user registered
+[2017-10-06 17:36:55.629] [INFO] expense_server_express - new user
+[2017-10-06 17:36:55.629] [INFO] expense_server_express - new user registered
+[2017-10-06 17:40:40.043] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 17:40:41.493] [INFO] expense_server_express - new user
+[2017-10-06 17:40:41.503] [INFO] expense_server_express - new user registered
+[2017-10-06 17:40:41.533] [INFO] expense_server_express - new user
+[2017-10-06 17:40:41.534] [INFO] expense_server_express - new user registered
+[2017-10-06 17:40:41.543] [INFO] expense_server_express - new user
+[2017-10-06 17:40:41.544] [INFO] expense_server_express - new user registered
+[2017-10-06 17:40:41.551] [INFO] expense_server_express - new user
+[2017-10-06 17:40:41.553] [INFO] expense_server_express - new user registered
+[2017-10-06 17:40:41.559] [INFO] expense_server_express - new user
+[2017-10-06 17:40:41.560] [INFO] expense_server_express - new user registered
+[2017-10-06 18:03:29.879] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 18:03:31.239] [INFO] expense_server_express - new user
+[2017-10-06 18:03:31.250] [INFO] expense_server_express - new user registered
+[2017-10-06 18:03:31.278] [INFO] expense_server_express - new user
+[2017-10-06 18:03:31.279] [INFO] expense_server_express - new user registered
+[2017-10-06 18:03:31.288] [INFO] expense_server_express - new user
+[2017-10-06 18:03:31.288] [INFO] expense_server_express - new user registered
+[2017-10-06 18:03:31.294] [INFO] expense_server_express - new user
+[2017-10-06 18:03:31.294] [INFO] expense_server_express - new user registered
+[2017-10-06 18:03:31.299] [INFO] expense_server_express - new user
+[2017-10-06 18:03:31.300] [INFO] expense_server_express - new user registered
+[2017-10-06 18:05:25.445] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 18:05:26.737] [INFO] expense_server_express - new user
+[2017-10-06 18:05:26.747] [INFO] expense_server_express - new user registered
+[2017-10-06 18:05:26.775] [INFO] expense_server_express - new user
+[2017-10-06 18:05:26.777] [INFO] expense_server_express - new user registered
+[2017-10-06 18:05:26.786] [INFO] expense_server_express - new user
+[2017-10-06 18:05:26.787] [INFO] expense_server_express - new user registered
+[2017-10-06 18:05:26.794] [INFO] expense_server_express - new user
+[2017-10-06 18:05:26.795] [INFO] expense_server_express - new user registered
+[2017-10-06 18:05:26.801] [INFO] expense_server_express - new user
+[2017-10-06 18:05:26.802] [INFO] expense_server_express - new user registered
+[2017-10-06 18:06:41.153] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 18:06:48.621] [INFO] expense_server_express - new user
+[2017-10-06 18:06:49.011] [INFO] expense_server_express - new user registered
+[2017-10-06 18:08:39.691] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 18:08:41.017] [INFO] expense_server_express - new user
+[2017-10-06 18:08:41.028] [INFO] expense_server_express - new user registered
+[2017-10-06 18:08:41.056] [INFO] expense_server_express - new user
+[2017-10-06 18:08:41.057] [INFO] expense_server_express - new user registered
+[2017-10-06 18:08:41.066] [INFO] expense_server_express - new user
+[2017-10-06 18:08:41.067] [INFO] expense_server_express - new user registered
+[2017-10-06 18:08:41.074] [INFO] expense_server_express - new user
+[2017-10-06 18:08:41.075] [INFO] expense_server_express - new user registered
+[2017-10-06 18:08:41.081] [INFO] expense_server_express - new user
+[2017-10-06 18:08:41.081] [INFO] expense_server_express - new user registered
+[2017-10-06 18:08:47.405] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 18:10:28.582] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 18:10:29.951] [INFO] expense_server_express - new user
+[2017-10-06 18:10:29.961] [INFO] expense_server_express - new user registered
+[2017-10-06 18:10:29.989] [INFO] expense_server_express - new user
+[2017-10-06 18:10:29.990] [INFO] expense_server_express - new user registered
+[2017-10-06 18:10:29.999] [INFO] expense_server_express - new user
+[2017-10-06 18:10:29.999] [INFO] expense_server_express - new user registered
+[2017-10-06 18:10:30.007] [INFO] expense_server_express - new user
+[2017-10-06 18:10:30.007] [INFO] expense_server_express - new user registered
+[2017-10-06 18:10:30.012] [INFO] expense_server_express - new user
+[2017-10-06 18:10:30.013] [INFO] expense_server_express - new user registered
+[2017-10-06 18:10:36.463] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 18:11:21.693] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 18:12:25.545] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 18:13:14.533] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 18:18:00.034] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 18:19:29.681] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 18:21:04.246] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 18:21:05.628] [INFO] expense_server_express - new user
+[2017-10-06 18:21:05.638] [INFO] expense_server_express - new user registered
+[2017-10-06 18:21:05.667] [INFO] expense_server_express - new user
+[2017-10-06 18:21:05.668] [INFO] expense_server_express - new user registered
+[2017-10-06 18:21:05.676] [INFO] expense_server_express - new user
+[2017-10-06 18:21:05.677] [INFO] expense_server_express - new user registered
+[2017-10-06 18:21:05.682] [INFO] expense_server_express - new user
+[2017-10-06 18:21:05.683] [INFO] expense_server_express - new user registered
+[2017-10-06 18:21:05.687] [INFO] expense_server_express - new user
+[2017-10-06 18:21:05.688] [INFO] expense_server_express - new user registered
+[2017-10-06 18:21:19.663] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 18:25:08.612] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 18:26:23.852] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 18:27:28.318] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 18:33:47.139] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 18:35:28.988] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 18:42:38.676] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 18:42:39.879] [INFO] expense_server_express - new user
+[2017-10-06 18:42:39.890] [INFO] expense_server_express - new user registered
+[2017-10-06 18:42:39.917] [INFO] expense_server_express - new user
+[2017-10-06 18:42:39.919] [INFO] expense_server_express - new user registered
+[2017-10-06 18:42:39.929] [INFO] expense_server_express - new user
+[2017-10-06 18:42:39.929] [INFO] expense_server_express - new user registered
+[2017-10-06 18:42:39.935] [INFO] expense_server_express - new user
+[2017-10-06 18:42:39.936] [INFO] expense_server_express - new user registered
+[2017-10-06 18:42:39.940] [INFO] expense_server_express - new user
+[2017-10-06 18:42:39.940] [INFO] expense_server_express - new user registered
+[2017-10-06 18:42:55.593] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 18:43:11.934] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 18:43:13.148] [INFO] expense_server_express - new user
+[2017-10-06 18:43:13.158] [INFO] expense_server_express - new user registered
+[2017-10-06 18:43:13.187] [INFO] expense_server_express - new user
+[2017-10-06 18:43:13.188] [INFO] expense_server_express - new user registered
+[2017-10-06 18:43:13.196] [INFO] expense_server_express - new user
+[2017-10-06 18:43:13.197] [INFO] expense_server_express - new user registered
+[2017-10-06 18:43:13.203] [INFO] expense_server_express - new user
+[2017-10-06 18:43:13.204] [INFO] expense_server_express - new user registered
+[2017-10-06 18:43:13.208] [INFO] expense_server_express - new user
+[2017-10-06 18:43:13.208] [INFO] expense_server_express - new user registered
+[2017-10-06 18:44:37.454] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 18:44:38.604] [INFO] expense_server_express - new user
+[2017-10-06 18:44:38.614] [INFO] expense_server_express - new user registered
+[2017-10-06 18:44:38.643] [INFO] expense_server_express - new user
+[2017-10-06 18:44:38.644] [INFO] expense_server_express - new user registered
+[2017-10-06 18:44:38.653] [INFO] expense_server_express - new user
+[2017-10-06 18:44:38.654] [INFO] expense_server_express - new user registered
+[2017-10-06 18:44:38.661] [INFO] expense_server_express - new user
+[2017-10-06 18:44:38.662] [INFO] expense_server_express - new user registered
+[2017-10-06 18:44:38.668] [INFO] expense_server_express - new user
+[2017-10-06 18:44:38.668] [INFO] expense_server_express - new user registered
+[2017-10-06 18:45:41.739] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 18:45:42.890] [INFO] expense_server_express - new user
+[2017-10-06 18:45:42.901] [INFO] expense_server_express - new user registered
+[2017-10-06 18:45:42.930] [INFO] expense_server_express - new user
+[2017-10-06 18:45:42.931] [INFO] expense_server_express - new user registered
+[2017-10-06 18:45:42.941] [INFO] expense_server_express - new user
+[2017-10-06 18:45:42.942] [INFO] expense_server_express - new user registered
+[2017-10-06 18:45:42.948] [INFO] expense_server_express - new user
+[2017-10-06 18:45:42.949] [INFO] expense_server_express - new user registered
+[2017-10-06 18:45:42.956] [INFO] expense_server_express - new user
+[2017-10-06 18:45:42.957] [INFO] expense_server_express - new user registered
+[2017-10-06 18:46:35.690] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 18:46:36.845] [INFO] expense_server_express - new user
+[2017-10-06 18:46:36.855] [INFO] expense_server_express - new user registered
+[2017-10-06 18:46:36.884] [INFO] expense_server_express - new user
+[2017-10-06 18:46:36.885] [INFO] expense_server_express - new user registered
+[2017-10-06 18:46:36.895] [INFO] expense_server_express - new user
+[2017-10-06 18:46:36.896] [INFO] expense_server_express - new user registered
+[2017-10-06 18:46:36.902] [INFO] expense_server_express - new user
+[2017-10-06 18:46:36.903] [INFO] expense_server_express - new user registered
+[2017-10-06 18:46:36.909] [INFO] expense_server_express - new user
+[2017-10-06 18:46:36.910] [INFO] expense_server_express - new user registered
+[2017-10-06 18:48:42.396] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 18:48:43.578] [INFO] expense_server_express - new user
+[2017-10-06 18:48:43.589] [INFO] expense_server_express - new user registered
+[2017-10-06 18:48:43.621] [INFO] expense_server_express - new user
+[2017-10-06 18:48:43.622] [INFO] expense_server_express - new user registered
+[2017-10-06 18:48:43.635] [INFO] expense_server_express - new user
+[2017-10-06 18:48:43.637] [INFO] expense_server_express - new user registered
+[2017-10-06 18:48:43.646] [INFO] expense_server_express - new user
+[2017-10-06 18:48:43.646] [INFO] expense_server_express - new user registered
+[2017-10-06 18:48:43.654] [INFO] expense_server_express - new user
+[2017-10-06 18:48:43.655] [INFO] expense_server_express - new user registered
+[2017-10-06 18:49:05.872] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 18:49:07.012] [INFO] expense_server_express - new user
+[2017-10-06 18:49:07.023] [INFO] expense_server_express - new user registered
+[2017-10-06 18:49:07.052] [INFO] expense_server_express - new user
+[2017-10-06 18:49:07.053] [INFO] expense_server_express - new user registered
+[2017-10-06 18:49:07.063] [INFO] expense_server_express - new user
+[2017-10-06 18:49:07.063] [INFO] expense_server_express - new user registered
+[2017-10-06 18:49:07.071] [INFO] expense_server_express - new user
+[2017-10-06 18:49:07.072] [INFO] expense_server_express - new user registered
+[2017-10-06 18:49:07.078] [INFO] expense_server_express - new user
+[2017-10-06 18:49:07.079] [INFO] expense_server_express - new user registered
+[2017-10-06 18:49:51.065] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 18:49:52.215] [INFO] expense_server_express - new user
+[2017-10-06 18:49:52.226] [INFO] expense_server_express - new user registered
+[2017-10-06 18:49:52.255] [INFO] expense_server_express - new user
+[2017-10-06 18:49:52.257] [INFO] expense_server_express - new user registered
+[2017-10-06 18:49:52.266] [INFO] expense_server_express - new user
+[2017-10-06 18:49:52.267] [INFO] expense_server_express - new user registered
+[2017-10-06 18:49:52.274] [INFO] expense_server_express - new user
+[2017-10-06 18:49:52.275] [INFO] expense_server_express - new user registered
+[2017-10-06 18:49:52.281] [INFO] expense_server_express - new user
+[2017-10-06 18:49:52.282] [INFO] expense_server_express - new user registered
+[2017-10-06 18:53:39.315] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 18:53:40.461] [INFO] expense_server_express - new user
+[2017-10-06 18:53:40.472] [INFO] expense_server_express - new user registered
+[2017-10-06 18:53:40.501] [INFO] expense_server_express - new user
+[2017-10-06 18:53:40.502] [INFO] expense_server_express - new user registered
+[2017-10-06 18:53:40.512] [INFO] expense_server_express - new user
+[2017-10-06 18:53:40.513] [INFO] expense_server_express - new user registered
+[2017-10-06 18:53:40.520] [INFO] expense_server_express - new user
+[2017-10-06 18:53:40.521] [INFO] expense_server_express - new user registered
+[2017-10-06 18:53:40.527] [INFO] expense_server_express - new user
+[2017-10-06 18:53:40.528] [INFO] expense_server_express - new user registered
+[2017-10-06 18:55:32.933] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 18:55:34.073] [INFO] expense_server_express - new user
+[2017-10-06 18:55:34.084] [INFO] expense_server_express - new user registered
+[2017-10-06 18:55:34.112] [INFO] expense_server_express - new user
+[2017-10-06 18:55:34.114] [INFO] expense_server_express - new user registered
+[2017-10-06 18:55:34.123] [INFO] expense_server_express - new user
+[2017-10-06 18:55:34.124] [INFO] expense_server_express - new user registered
+[2017-10-06 18:55:34.131] [INFO] expense_server_express - new user
+[2017-10-06 18:55:34.133] [INFO] expense_server_express - new user registered
+[2017-10-06 18:55:34.138] [INFO] expense_server_express - new user
+[2017-10-06 18:55:34.139] [INFO] expense_server_express - new user registered
+[2017-10-06 18:56:42.296] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 18:56:43.461] [INFO] expense_server_express - new user
+[2017-10-06 18:56:43.471] [INFO] expense_server_express - new user registered
+[2017-10-06 18:56:43.501] [INFO] expense_server_express - new user
+[2017-10-06 18:56:43.502] [INFO] expense_server_express - new user registered
+[2017-10-06 18:56:43.512] [INFO] expense_server_express - new user
+[2017-10-06 18:56:43.512] [INFO] expense_server_express - new user registered
+[2017-10-06 18:56:43.519] [INFO] expense_server_express - new user
+[2017-10-06 18:56:43.520] [INFO] expense_server_express - new user registered
+[2017-10-06 18:56:43.527] [INFO] expense_server_express - new user
+[2017-10-06 18:56:43.528] [INFO] expense_server_express - new user registered
+[2017-10-06 19:01:29.379] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 19:01:30.735] [INFO] expense_server_express - new user
+[2017-10-06 19:01:30.746] [INFO] expense_server_express - new user registered
+[2017-10-06 19:01:30.774] [INFO] expense_server_express - new user
+[2017-10-06 19:01:30.775] [INFO] expense_server_express - new user registered
+[2017-10-06 19:01:30.785] [INFO] expense_server_express - new user
+[2017-10-06 19:01:30.786] [INFO] expense_server_express - new user registered
+[2017-10-06 19:01:30.793] [INFO] expense_server_express - new user
+[2017-10-06 19:01:30.794] [INFO] expense_server_express - new user registered
+[2017-10-06 19:01:30.800] [INFO] expense_server_express - new user
+[2017-10-06 19:01:30.801] [INFO] expense_server_express - new user registered
+[2017-10-06 19:05:11.246] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 19:05:12.449] [INFO] expense_server_express - new user
+[2017-10-06 19:05:12.460] [INFO] expense_server_express - new user registered
+[2017-10-06 19:05:12.489] [INFO] expense_server_express - new user
+[2017-10-06 19:05:12.490] [INFO] expense_server_express - new user registered
+[2017-10-06 19:05:12.499] [INFO] expense_server_express - new user
+[2017-10-06 19:05:12.500] [INFO] expense_server_express - new user registered
+[2017-10-06 19:05:12.507] [INFO] expense_server_express - new user
+[2017-10-06 19:05:12.508] [INFO] expense_server_express - new user registered
+[2017-10-06 19:05:12.514] [INFO] expense_server_express - new user
+[2017-10-06 19:05:12.515] [INFO] expense_server_express - new user registered
+[2017-10-06 19:07:17.041] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 19:07:18.471] [INFO] expense_server_express - new user
+[2017-10-06 19:07:18.481] [INFO] expense_server_express - new user registered
+[2017-10-06 19:07:18.509] [INFO] expense_server_express - new user
+[2017-10-06 19:07:18.510] [INFO] expense_server_express - new user registered
+[2017-10-06 19:07:18.518] [INFO] expense_server_express - new user
+[2017-10-06 19:07:18.519] [INFO] expense_server_express - new user registered
+[2017-10-06 19:07:18.524] [INFO] expense_server_express - new user
+[2017-10-06 19:07:18.525] [INFO] expense_server_express - new user registered
+[2017-10-06 19:07:18.529] [INFO] expense_server_express - new user
+[2017-10-06 19:07:18.530] [INFO] expense_server_express - new user registered
+[2017-10-06 19:07:50.321] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 19:07:51.705] [INFO] expense_server_express - new user
+[2017-10-06 19:07:51.716] [INFO] expense_server_express - new user registered
+[2017-10-06 19:07:51.745] [INFO] expense_server_express - new user
+[2017-10-06 19:07:51.747] [INFO] expense_server_express - new user registered
+[2017-10-06 19:07:51.756] [INFO] expense_server_express - new user
+[2017-10-06 19:07:51.757] [INFO] expense_server_express - new user registered
+[2017-10-06 19:07:51.764] [INFO] expense_server_express - new user
+[2017-10-06 19:07:51.765] [INFO] expense_server_express - new user registered
+[2017-10-06 19:07:51.771] [INFO] expense_server_express - new user
+[2017-10-06 19:07:51.771] [INFO] expense_server_express - new user registered
+[2017-10-06 19:08:35.856] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 19:08:37.277] [INFO] expense_server_express - new user
+[2017-10-06 19:08:37.288] [INFO] expense_server_express - new user registered
+[2017-10-06 19:08:37.317] [INFO] expense_server_express - new user
+[2017-10-06 19:08:37.318] [INFO] expense_server_express - new user registered
+[2017-10-06 19:08:37.327] [INFO] expense_server_express - new user
+[2017-10-06 19:08:37.328] [INFO] expense_server_express - new user registered
+[2017-10-06 19:08:37.335] [INFO] expense_server_express - new user
+[2017-10-06 19:08:37.336] [INFO] expense_server_express - new user registered
+[2017-10-06 19:08:37.342] [INFO] expense_server_express - new user
+[2017-10-06 19:08:37.343] [INFO] expense_server_express - new user registered
+[2017-10-06 19:09:46.498] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 19:09:47.966] [INFO] expense_server_express - new user
+[2017-10-06 19:09:47.976] [INFO] expense_server_express - new user registered
+[2017-10-06 19:09:48.006] [INFO] expense_server_express - new user
+[2017-10-06 19:09:48.008] [INFO] expense_server_express - new user registered
+[2017-10-06 19:09:48.017] [INFO] expense_server_express - new user
+[2017-10-06 19:09:48.018] [INFO] expense_server_express - new user registered
+[2017-10-06 19:09:48.025] [INFO] expense_server_express - new user
+[2017-10-06 19:09:48.025] [INFO] expense_server_express - new user registered
+[2017-10-06 19:09:48.031] [INFO] expense_server_express - new user
+[2017-10-06 19:09:48.032] [INFO] expense_server_express - new user registered
+[2017-10-06 19:11:10.161] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 19:11:47.040] [INFO] expense_server_express - new user
+[2017-10-06 19:12:32.559] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 19:12:41.422] [INFO] expense_server_express - new user
+[2017-10-06 19:15:08.942] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 19:15:14.992] [INFO] expense_server_express - new user
+[2017-10-06 19:15:15.384] [INFO] expense_server_express - new user registered
+[2017-10-06 19:15:32.592] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 19:15:33.711] [INFO] expense_server_express - new user
+[2017-10-06 19:15:33.721] [INFO] expense_server_express - new user registered
+[2017-10-06 19:15:33.749] [INFO] expense_server_express - new user
+[2017-10-06 19:15:33.750] [INFO] expense_server_express - new user registered
+[2017-10-06 19:15:33.759] [INFO] expense_server_express - new user
+[2017-10-06 19:15:33.760] [INFO] expense_server_express - new user registered
+[2017-10-06 19:15:33.766] [INFO] expense_server_express - new user
+[2017-10-06 19:15:33.766] [INFO] expense_server_express - new user registered
+[2017-10-06 19:15:33.771] [INFO] expense_server_express - new user
+[2017-10-06 19:15:33.771] [INFO] expense_server_express - new user registered
+[2017-10-06 19:16:25.886] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 19:16:27.336] [INFO] expense_server_express - new user
+[2017-10-06 19:16:27.346] [INFO] expense_server_express - new user registered
+[2017-10-06 19:16:27.374] [INFO] expense_server_express - new user
+[2017-10-06 19:16:27.375] [INFO] expense_server_express - new user registered
+[2017-10-06 19:16:27.384] [INFO] expense_server_express - new user
+[2017-10-06 19:16:27.384] [INFO] expense_server_express - new user registered
+[2017-10-06 19:16:27.394] [INFO] expense_server_express - new user
+[2017-10-06 19:16:27.395] [INFO] expense_server_express - new user registered
+[2017-10-06 19:16:27.400] [INFO] expense_server_express - new user
+[2017-10-06 19:16:27.400] [INFO] expense_server_express - new user registered
+[2017-10-06 19:16:56.704] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 19:16:58.166] [INFO] expense_server_express - new user
+[2017-10-06 19:16:58.177] [INFO] expense_server_express - new user registered
+[2017-10-06 19:16:58.205] [INFO] expense_server_express - new user
+[2017-10-06 19:16:58.206] [INFO] expense_server_express - new user registered
+[2017-10-06 19:16:58.216] [INFO] expense_server_express - new user
+[2017-10-06 19:16:58.217] [INFO] expense_server_express - new user registered
+[2017-10-06 19:16:58.224] [INFO] expense_server_express - new user
+[2017-10-06 19:16:58.225] [INFO] expense_server_express - new user registered
+[2017-10-06 19:16:58.231] [INFO] expense_server_express - new user
+[2017-10-06 19:16:58.232] [INFO] expense_server_express - new user registered
+[2017-10-06 19:17:03.850] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 19:17:17.758] [INFO] expense_server_express - user already exists
+[2017-10-06 19:17:22.400] [INFO] expense_server_express - new user
+[2017-10-06 19:17:22.785] [INFO] expense_server_express - new user registered
+[2017-10-06 19:17:56.927] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 19:17:58.080] [INFO] expense_server_express - new user
+[2017-10-06 19:17:58.090] [INFO] expense_server_express - new user registered
+[2017-10-06 19:17:58.118] [INFO] expense_server_express - new user
+[2017-10-06 19:17:58.120] [INFO] expense_server_express - new user registered
+[2017-10-06 19:17:58.129] [INFO] expense_server_express - new user
+[2017-10-06 19:17:58.130] [INFO] expense_server_express - new user registered
+[2017-10-06 19:17:58.137] [INFO] expense_server_express - new user
+[2017-10-06 19:17:58.138] [INFO] expense_server_express - new user registered
+[2017-10-06 19:17:58.144] [INFO] expense_server_express - new user
+[2017-10-06 19:17:58.145] [INFO] expense_server_express - new user registered
+[2017-10-06 19:18:56.942] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 19:22:22.283] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 19:22:23.539] [INFO] expense_server_express - new user
+[2017-10-06 19:22:23.549] [INFO] expense_server_express - new user registered
+[2017-10-06 19:22:23.577] [INFO] expense_server_express - new user
+[2017-10-06 19:22:23.579] [INFO] expense_server_express - new user registered
+[2017-10-06 19:22:23.588] [INFO] expense_server_express - new user
+[2017-10-06 19:22:23.589] [INFO] expense_server_express - new user registered
+[2017-10-06 19:22:23.596] [INFO] expense_server_express - new user
+[2017-10-06 19:22:23.597] [INFO] expense_server_express - new user registered
+[2017-10-06 19:22:23.603] [INFO] expense_server_express - new user
+[2017-10-06 19:22:23.604] [INFO] expense_server_express - new user registered
+[2017-10-06 19:28:12.410] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 19:28:13.544] [INFO] expense_server_express - new user
+[2017-10-06 19:28:13.554] [INFO] expense_server_express - new user registered
+[2017-10-06 19:28:13.582] [INFO] expense_server_express - new user
+[2017-10-06 19:28:13.583] [INFO] expense_server_express - new user registered
+[2017-10-06 19:28:13.593] [INFO] expense_server_express - new user
+[2017-10-06 19:28:13.594] [INFO] expense_server_express - new user registered
+[2017-10-06 19:28:13.601] [INFO] expense_server_express - new user
+[2017-10-06 19:28:13.602] [INFO] expense_server_express - new user registered
+[2017-10-06 19:28:13.607] [INFO] expense_server_express - new user
+[2017-10-06 19:28:13.608] [INFO] expense_server_express - new user registered
+[2017-10-06 19:29:07.931] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 19:29:09.066] [INFO] expense_server_express - new user
+[2017-10-06 19:29:09.076] [INFO] expense_server_express - new user registered
+[2017-10-06 19:29:09.104] [INFO] expense_server_express - new user
+[2017-10-06 19:29:09.106] [INFO] expense_server_express - new user registered
+[2017-10-06 19:29:09.115] [INFO] expense_server_express - new user
+[2017-10-06 19:29:09.116] [INFO] expense_server_express - new user registered
+[2017-10-06 19:29:09.124] [INFO] expense_server_express - new user
+[2017-10-06 19:29:09.125] [INFO] expense_server_express - new user registered
+[2017-10-06 19:29:09.131] [INFO] expense_server_express - new user
+[2017-10-06 19:29:09.132] [INFO] expense_server_express - new user registered
+[2017-10-06 19:30:00.539] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 19:30:01.694] [INFO] expense_server_express - new user
+[2017-10-06 19:30:01.705] [INFO] expense_server_express - new user registered
+[2017-10-06 19:30:01.734] [INFO] expense_server_express - new user
+[2017-10-06 19:30:01.735] [INFO] expense_server_express - new user registered
+[2017-10-06 19:30:01.745] [INFO] expense_server_express - new user
+[2017-10-06 19:30:01.746] [INFO] expense_server_express - new user registered
+[2017-10-06 19:30:01.754] [INFO] expense_server_express - new user
+[2017-10-06 19:30:01.755] [INFO] expense_server_express - new user registered
+[2017-10-06 19:30:01.760] [INFO] expense_server_express - new user
+[2017-10-06 19:30:01.761] [INFO] expense_server_express - new user registered
+[2017-10-06 19:30:23.711] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 19:30:24.965] [INFO] expense_server_express - new user
+[2017-10-06 19:30:24.975] [INFO] expense_server_express - new user registered
+[2017-10-06 19:30:25.004] [INFO] expense_server_express - new user
+[2017-10-06 19:30:25.005] [INFO] expense_server_express - new user registered
+[2017-10-06 19:30:25.015] [INFO] expense_server_express - new user
+[2017-10-06 19:30:25.016] [INFO] expense_server_express - new user registered
+[2017-10-06 19:30:25.022] [INFO] expense_server_express - new user
+[2017-10-06 19:30:25.023] [INFO] expense_server_express - new user registered
+[2017-10-06 19:30:25.026] [INFO] expense_server_express - new user
+[2017-10-06 19:30:25.027] [INFO] expense_server_express - new user registered
+[2017-10-06 19:33:18.261] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 19:33:19.397] [INFO] expense_server_express - new user
+[2017-10-06 19:33:19.408] [INFO] expense_server_express - new user registered
+[2017-10-06 19:33:19.436] [INFO] expense_server_express - new user
+[2017-10-06 19:33:19.438] [INFO] expense_server_express - new user registered
+[2017-10-06 19:33:19.447] [INFO] expense_server_express - new user
+[2017-10-06 19:33:19.448] [INFO] expense_server_express - new user registered
+[2017-10-06 19:33:19.456] [INFO] expense_server_express - new user
+[2017-10-06 19:33:19.457] [INFO] expense_server_express - new user registered
+[2017-10-06 19:33:19.463] [INFO] expense_server_express - new user
+[2017-10-06 19:33:19.464] [INFO] expense_server_express - new user registered
+[2017-10-06 19:34:04.744] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 19:34:05.897] [INFO] expense_server_express - new user
+[2017-10-06 19:34:05.907] [INFO] expense_server_express - new user registered
+[2017-10-06 19:34:05.936] [INFO] expense_server_express - new user
+[2017-10-06 19:34:05.937] [INFO] expense_server_express - new user registered
+[2017-10-06 19:34:05.947] [INFO] expense_server_express - new user
+[2017-10-06 19:34:05.948] [INFO] expense_server_express - new user registered
+[2017-10-06 19:34:05.954] [INFO] expense_server_express - new user
+[2017-10-06 19:34:05.955] [INFO] expense_server_express - new user registered
+[2017-10-06 19:34:05.961] [INFO] expense_server_express - new user
+[2017-10-06 19:34:05.962] [INFO] expense_server_express - new user registered
+[2017-10-06 19:37:04.806] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 19:37:06.062] [INFO] expense_server_express - new user
+[2017-10-06 19:37:06.073] [INFO] expense_server_express - new user registered
+[2017-10-06 19:37:06.102] [INFO] expense_server_express - new user
+[2017-10-06 19:37:06.104] [INFO] expense_server_express - new user registered
+[2017-10-06 19:37:06.113] [INFO] expense_server_express - new user
+[2017-10-06 19:37:06.114] [INFO] expense_server_express - new user registered
+[2017-10-06 19:37:06.121] [INFO] expense_server_express - new user
+[2017-10-06 19:37:06.123] [INFO] expense_server_express - new user registered
+[2017-10-06 19:37:06.129] [INFO] expense_server_express - new user
+[2017-10-06 19:37:06.130] [INFO] expense_server_express - new user registered
+[2017-10-06 19:41:07.662] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 19:41:08.974] [INFO] expense_server_express - new user
+[2017-10-06 19:41:08.984] [INFO] expense_server_express - new user registered
+[2017-10-06 19:41:09.014] [INFO] expense_server_express - new user
+[2017-10-06 19:41:09.015] [INFO] expense_server_express - new user registered
+[2017-10-06 19:41:09.028] [INFO] expense_server_express - new user
+[2017-10-06 19:41:09.029] [INFO] expense_server_express - new user registered
+[2017-10-06 19:41:09.037] [INFO] expense_server_express - new user
+[2017-10-06 19:41:09.038] [INFO] expense_server_express - new user registered
+[2017-10-06 19:41:09.044] [INFO] expense_server_express - new user
+[2017-10-06 19:41:09.045] [INFO] expense_server_express - new user registered
+[2017-10-06 19:42:07.753] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 19:42:09.111] [INFO] expense_server_express - new user
+[2017-10-06 19:42:09.122] [INFO] expense_server_express - new user registered
+[2017-10-06 19:42:09.150] [INFO] expense_server_express - new user
+[2017-10-06 19:42:09.151] [INFO] expense_server_express - new user registered
+[2017-10-06 19:42:09.159] [INFO] expense_server_express - new user
+[2017-10-06 19:42:09.160] [INFO] expense_server_express - new user registered
+[2017-10-06 19:42:09.166] [INFO] expense_server_express - new user
+[2017-10-06 19:42:09.166] [INFO] expense_server_express - new user registered
+[2017-10-06 19:42:09.170] [INFO] expense_server_express - new user
+[2017-10-06 19:42:09.171] [INFO] expense_server_express - new user registered
+[2017-10-06 19:43:17.679] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 19:43:19.090] [INFO] expense_server_express - new user
+[2017-10-06 19:43:19.100] [INFO] expense_server_express - new user registered
+[2017-10-06 19:43:19.128] [INFO] expense_server_express - new user
+[2017-10-06 19:43:19.129] [INFO] expense_server_express - new user registered
+[2017-10-06 19:43:19.139] [INFO] expense_server_express - new user
+[2017-10-06 19:43:19.139] [INFO] expense_server_express - new user registered
+[2017-10-06 19:43:19.147] [INFO] expense_server_express - new user
+[2017-10-06 19:43:19.148] [INFO] expense_server_express - new user registered
+[2017-10-06 19:43:19.153] [INFO] expense_server_express - new user
+[2017-10-06 19:43:19.154] [INFO] expense_server_express - new user registered
+[2017-10-06 19:45:33.307] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 19:45:34.774] [INFO] expense_server_express - new user
+[2017-10-06 19:45:34.785] [INFO] expense_server_express - new user registered
+[2017-10-06 19:45:34.812] [INFO] expense_server_express - new user
+[2017-10-06 19:45:34.814] [INFO] expense_server_express - new user registered
+[2017-10-06 19:45:34.823] [INFO] expense_server_express - new user
+[2017-10-06 19:45:34.824] [INFO] expense_server_express - new user registered
+[2017-10-06 19:45:34.831] [INFO] expense_server_express - new user
+[2017-10-06 19:45:34.832] [INFO] expense_server_express - new user registered
+[2017-10-06 19:45:34.838] [INFO] expense_server_express - new user
+[2017-10-06 19:45:34.839] [INFO] expense_server_express - new user registered
+[2017-10-06 20:16:07.838] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 20:16:29.137] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 20:16:30.314] [INFO] expense_server_express - new user
+[2017-10-06 20:16:30.324] [INFO] expense_server_express - new user registered
+[2017-10-06 20:16:30.353] [INFO] expense_server_express - new user
+[2017-10-06 20:16:30.355] [INFO] expense_server_express - new user registered
+[2017-10-06 20:16:30.364] [INFO] expense_server_express - new user
+[2017-10-06 20:16:30.365] [INFO] expense_server_express - new user registered
+[2017-10-06 20:16:30.372] [INFO] expense_server_express - new user
+[2017-10-06 20:16:30.373] [INFO] expense_server_express - new user registered
+[2017-10-06 20:16:30.379] [INFO] expense_server_express - new user
+[2017-10-06 20:16:30.380] [INFO] expense_server_express - new user registered
+[2017-10-06 20:42:44.024] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 20:44:14.078] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 20:46:02.417] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 20:47:25.530] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 21:03:17.461] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 21:03:18.780] [INFO] expense_server_express - new user
+[2017-10-06 21:03:18.790] [INFO] expense_server_express - new user registered
+[2017-10-06 21:03:18.801] [INFO] expense_server_express - new user
+[2017-10-06 21:03:18.803] [INFO] expense_server_express - new user registered
+[2017-10-06 21:03:18.812] [INFO] expense_server_express - new user
+[2017-10-06 21:03:18.813] [INFO] expense_server_express - new user registered
+[2017-10-06 21:03:18.818] [INFO] expense_server_express - new user
+[2017-10-06 21:03:18.819] [INFO] expense_server_express - new user registered
+[2017-10-06 21:03:18.824] [INFO] expense_server_express - new user
+[2017-10-06 21:03:18.825] [INFO] expense_server_express - new user registered
+[2017-10-06 21:09:08.818] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 21:09:10.141] [INFO] expense_server_express - new user
+[2017-10-06 21:09:10.151] [INFO] expense_server_express - new user registered
+[2017-10-06 21:09:10.163] [INFO] expense_server_express - new user
+[2017-10-06 21:09:10.164] [INFO] expense_server_express - new user registered
+[2017-10-06 21:09:10.172] [INFO] expense_server_express - new user
+[2017-10-06 21:09:10.173] [INFO] expense_server_express - new user registered
+[2017-10-06 21:09:10.179] [INFO] expense_server_express - new user
+[2017-10-06 21:09:10.179] [INFO] expense_server_express - new user registered
+[2017-10-06 21:09:10.185] [INFO] expense_server_express - new user
+[2017-10-06 21:09:10.186] [INFO] expense_server_express - new user registered
+[2017-10-06 21:32:41.566] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 21:32:42.878] [INFO] expense_server_express - new user
+[2017-10-06 21:32:42.888] [INFO] expense_server_express - new user registered
+[2017-10-06 21:32:42.900] [INFO] expense_server_express - new user
+[2017-10-06 21:32:42.902] [INFO] expense_server_express - new user registered
+[2017-10-06 21:32:42.909] [INFO] expense_server_express - new user
+[2017-10-06 21:32:42.910] [INFO] expense_server_express - new user registered
+[2017-10-06 21:32:42.916] [INFO] expense_server_express - new user
+[2017-10-06 21:32:42.917] [INFO] expense_server_express - new user registered
+[2017-10-06 21:32:42.923] [INFO] expense_server_express - new user
+[2017-10-06 21:32:42.924] [INFO] expense_server_express - new user registered
+[2017-10-06 21:34:19.436] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 21:34:21.026] [INFO] expense_server_express - new user
+[2017-10-06 21:34:21.036] [INFO] expense_server_express - new user registered
+[2017-10-06 21:34:21.047] [INFO] expense_server_express - new user
+[2017-10-06 21:34:21.049] [INFO] expense_server_express - new user registered
+[2017-10-06 21:34:21.056] [INFO] expense_server_express - new user
+[2017-10-06 21:34:21.057] [INFO] expense_server_express - new user registered
+[2017-10-06 21:34:21.061] [INFO] expense_server_express - new user
+[2017-10-06 21:34:21.062] [INFO] expense_server_express - new user registered
+[2017-10-06 21:34:21.067] [INFO] expense_server_express - new user
+[2017-10-06 21:34:21.068] [INFO] expense_server_express - new user registered
+[2017-10-06 21:35:17.065] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 21:35:18.387] [INFO] expense_server_express - new user
+[2017-10-06 21:35:18.397] [INFO] expense_server_express - new user registered
+[2017-10-06 21:35:18.409] [INFO] expense_server_express - new user
+[2017-10-06 21:35:18.410] [INFO] expense_server_express - new user registered
+[2017-10-06 21:35:18.418] [INFO] expense_server_express - new user
+[2017-10-06 21:35:18.419] [INFO] expense_server_express - new user registered
+[2017-10-06 21:35:18.424] [INFO] expense_server_express - new user
+[2017-10-06 21:35:18.425] [INFO] expense_server_express - new user registered
+[2017-10-06 21:35:18.431] [INFO] expense_server_express - new user
+[2017-10-06 21:35:18.432] [INFO] expense_server_express - new user registered
+[2017-10-06 21:38:56.069] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 21:47:43.187] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 21:48:32.739] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 21:48:47.537] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 21:50:23.752] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 21:51:26.835] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 21:52:31.457] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 21:55:53.109] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 21:57:24.508] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 21:57:56.784] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 21:59:22.579] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 22:02:14.996] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 22:02:58.304] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-06 22:05:10.452] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-06 22:41:24.456] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 22:41:38.863] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 22:44:22.976] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 22:45:01.918] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 22:45:25.430] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 22:46:50.415] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 22:54:00.230] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 22:55:17.755] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 22:57:14.666] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 22:58:28.977] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 23:01:39.893] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-06 23:02:25.684] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-06 23:04:07.839] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-06 23:15:51.898] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 23:16:30.095] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-06 23:17:22.857] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 23:18:49.338] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 23:20:53.866] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 23:22:52.219] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 23:23:31.451] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 23:26:02.746] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 23:27:35.883] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 23:31:37.729] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 23:37:26.817] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 23:43:48.580] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 23:46:56.152] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 23:47:25.110] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 23:53:08.353] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-06 23:56:50.715] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 00:02:47.093] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 00:03:40.476] [INFO] expense_server_express - new user
+[2017-10-07 00:03:40.869] [INFO] expense_server_express - new user registered
+[2017-10-07 00:04:02.344] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 00:06:45.859] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 00:12:12.428] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 00:21:30.434] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 00:25:02.968] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 00:25:04.587] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 00:25:06.595] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 00:25:42.194] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 00:34:32.215] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 00:34:34.119] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 00:40:42.661] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 00:40:44.486] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 09:00:51.536] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 09:00:52.889] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 09:02:24.691] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 09:02:26.020] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 09:03:38.052] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 09:03:39.380] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 09:04:08.218] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 09:04:38.638] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 09:07:01.932] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 09:07:03.279] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 09:07:45.166] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 09:08:23.756] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 09:08:48.624] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 09:10:41.556] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 09:11:17.748] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 09:12:28.160] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 09:13:27.157] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 09:27:31.329] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 09:29:16.283] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 09:47:43.243] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 09:48:00.923] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 09:48:58.566] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 09:50:33.739] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 09:52:52.803] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 09:53:44.940] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 09:54:05.252] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 09:55:43.068] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 09:56:25.850] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 10:00:55.199] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 10:03:03.768] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 10:03:35.197] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 10:04:13.631] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 10:08:16.811] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 10:11:56.643] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 10:12:26.229] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 17:29:22.869] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 17:35:28.844] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 19:02:47.490] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 19:11:33.569] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 19:25:13.934] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 19:25:26.663] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 19:26:02.525] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 19:26:59.370] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 19:28:38.034] [INFO] expense_server_express - new user
+[2017-10-07 19:28:38.053] [ERROR] expense_server_express - ValidationError: contact: Path `contact` is required. problem with registering new user register.js:25
+[2017-10-07 19:28:52.060] [INFO] expense_server_express - new user
+[2017-10-07 19:28:52.302] [INFO] expense_server_express - new user registered
+[2017-10-07 19:29:03.342] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 19:29:20.005] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 19:30:55.337] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 19:47:04.839] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 19:48:45.321] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 19:50:06.807] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 19:51:41.944] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 19:52:55.490] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 19:55:50.217] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 20:10:40.636] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 20:11:18.408] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 20:12:12.417] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 20:12:20.012] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 20:14:11.614] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 20:15:07.151] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 20:15:14.290] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 20:16:00.154] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 20:16:04.917] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 20:17:24.916] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 20:17:31.195] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 20:19:20.909] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 20:19:26.829] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 20:22:06.816] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 20:22:18.354] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 20:22:24.934] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 20:22:26.192] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 20:24:13.736] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 20:26:33.908] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 20:26:58.114] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 20:28:10.314] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 20:29:38.682] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 21:03:19.288] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 21:06:27.097] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 21:09:36.240] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 21:09:42.637] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 21:11:53.696] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 21:12:00.165] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 21:13:50.259] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 21:13:55.615] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 21:14:44.785] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 21:16:28.795] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 21:18:07.558] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 21:18:23.466] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 21:20:44.419] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 21:20:49.363] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 21:23:09.188] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 21:24:43.417] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 21:25:02.548] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 21:25:28.727] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 21:26:33.251] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 21:26:41.400] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 21:33:10.726] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 21:33:18.100] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 21:35:13.308] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 21:36:04.938] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 21:37:03.200] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 21:37:09.873] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 21:37:32.813] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 21:37:37.348] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 21:38:56.911] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 21:39:02.351] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-07 21:39:37.378] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 21:41:19.991] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 21:58:35.879] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 21:59:03.755] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 22:02:49.889] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 22:05:48.270] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 22:07:51.449] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 22:09:54.389] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 22:40:31.969] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 22:42:43.063] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 22:50:22.877] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 22:52:45.994] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 22:52:57.827] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 23:01:09.061] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 23:12:24.947] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 23:39:19.362] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 23:39:37.824] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 23:42:34.637] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 23:45:16.167] [INFO] expense_server_express - new user
+[2017-10-07 23:45:16.183] [ERROR] expense_server_express - ValidationError: fullName: Path `fullName` is required., password: Path `password` is required., email: Path `email` is required., contact: Path `contact` is required. problem with registering new user register.js:25
+[2017-10-07 23:50:30.986] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-07 23:56:17.276] [INFO] expense_server_express - new user
+[2017-10-07 23:56:17.532] [INFO] expense_server_express - new user registered
+[2017-10-08 00:06:47.579] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 00:08:14.618] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 00:52:17.491] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 00:58:01.423] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 00:58:40.790] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 01:13:11.361] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 01:22:55.501] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 01:30:54.451] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 01:31:27.970] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 01:31:35.177] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 01:32:12.345] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 01:33:15.525] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 01:40:33.782] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 01:41:04.945] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 01:42:07.772] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 01:53:01.254] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 02:19:37.507] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 02:40:51.243] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 02:51:26.714] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 02:55:57.972] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 02:56:27.140] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 03:15:32.639] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 03:27:07.624] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 09:59:18.395] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 10:14:55.651] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 10:27:30.808] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 10:32:07.392] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 10:34:30.179] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 12:01:54.135] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 12:26:16.547] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 12:46:03.137] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 12:51:14.535] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 12:55:23.933] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 13:19:22.158] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 13:27:18.211] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 16:15:30.923] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 16:22:43.547] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 16:25:36.414] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 17:20:42.343] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 17:21:37.344] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 17:21:37.511] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 17:23:57.758] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 17:24:22.048] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 17:24:22.219] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 17:33:39.149] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 17:41:53.660] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 17:43:12.040] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 17:44:40.335] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 17:46:16.247] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 17:50:14.348] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 17:56:18.142] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 17:56:59.224] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 17:58:52.003] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 18:00:42.373] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 18:00:46.487] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 18:00:46.656] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 18:00:51.412] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 18:00:51.549] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 18:01:33.027] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 18:02:54.271] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 18:02:54.427] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 18:03:54.281] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 18:03:54.434] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 18:10:53.448] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 18:12:36.413] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 18:12:36.573] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 18:18:21.426] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 18:20:27.197] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 18:20:27.352] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 18:21:46.863] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 18:21:47.016] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 18:23:06.858] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 18:25:03.214] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 18:27:52.745] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 18:31:02.492] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 18:31:51.805] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 18:31:51.959] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 18:33:56.392] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 18:34:50.180] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 18:35:32.720] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 18:35:32.875] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 18:40:50.248] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 18:42:01.534] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 18:42:01.692] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 19:14:36.557] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 19:15:57.649] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 19:29:56.758] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 19:32:03.816] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 19:32:19.799] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 19:33:15.539] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 19:34:21.263] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 19:34:21.426] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 19:36:09.386] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 19:36:09.557] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 19:37:24.077] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 19:38:06.475] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 19:38:06.665] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 19:38:48.401] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 19:41:00.684] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 19:41:00.838] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 19:41:16.968] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 19:43:57.016] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 19:46:03.698] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 19:46:03.855] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 19:56:54.444] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 19:56:54.598] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 19:57:10.614] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 20:01:33.937] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 20:23:46.110] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 20:27:26.297] [INFO] expense_server_express - new user
+[2017-10-08 20:27:26.906] [INFO] expense_server_express - new user registered
+[2017-10-08 20:44:19.063] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 20:56:23.183] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 21:02:15.932] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 21:12:14.249] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 21:20:43.704] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 22:15:11.358] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 22:17:31.398] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 22:22:22.236] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 22:24:01.922] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 22:29:55.873] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 22:32:17.225] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 22:35:56.267] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 22:36:43.429] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 22:36:43.602] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 22:37:38.859] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 22:37:39.026] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-08 22:38:16.566] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 22:40:48.838] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 22:42:32.386] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 22:48:46.928] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 22:52:53.139] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 22:56:16.140] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 23:05:30.660] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 23:07:47.266] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 23:38:31.545] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-08 23:49:29.827] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 00:19:29.804] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 12:13:48.883] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 12:15:55.768] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 12:20:50.632] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 12:32:54.678] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 12:51:14.960] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 13:58:53.361] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 13:58:55.417] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 13:58:57.157] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 13:59:39.397] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 14:07:02.554] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 14:07:04.782] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 14:07:06.107] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 14:07:07.114] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 14:08:18.303] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 14:08:20.566] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 14:08:21.642] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 14:08:22.463] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 14:09:23.693] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 14:09:31.188] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 14:09:33.402] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 14:09:34.615] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 14:10:23.823] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 14:10:33.995] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 14:10:34.884] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 14:10:35.749] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 14:10:42.978] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 14:10:45.157] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 14:10:46.264] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 14:10:47.273] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 14:10:50.847] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 14:11:25.470] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 14:14:23.915] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 14:19:52.287] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 14:26:47.546] [INFO] expense_server_express - new user
+[2017-10-09 14:26:47.842] [INFO] expense_server_express - new user registered
+[2017-10-09 14:27:29.769] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 14:37:15.399] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 14:46:41.484] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 14:47:09.706] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 14:47:10.603] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 14:47:11.540] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 14:49:02.689] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 14:49:58.742] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 14:50:00.732] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 14:50:02.069] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 14:50:03.178] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 14:51:20.639] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 14:51:21.669] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 14:51:22.535] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 14:52:33.695] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 14:53:21.482] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 15:00:17.261] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 15:10:11.478] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 15:10:34.948] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 15:24:44.292] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 15:32:57.289] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 15:32:59.833] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 15:33:01.075] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 15:33:02.143] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 15:35:11.517] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 15:37:14.224] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 15:40:44.202] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 15:45:40.239] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 15:47:30.638] [INFO] expense_server_express - new user
+[2017-10-09 15:47:30.956] [INFO] expense_server_express - new user registered
+[2017-10-09 15:49:59.645] [INFO] expense_server_express - user already exists
+[2017-10-09 16:02:00.942] [ERROR] expense_server_express - undefined internal server errorapp.js:129
+[2017-10-09 16:05:49.188] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 16:07:27.614] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 16:08:54.314] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 16:09:23.667] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 16:10:42.123] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 16:13:23.886] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-09 16:13:51.559] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 09:42:46.783] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 09:44:53.424] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 10:29:02.811] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 10:53:45.772] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 11:09:00.178] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 11:12:54.635] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 11:15:42.787] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 11:22:38.701] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 11:30:42.417] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 11:31:32.480] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 15:01:59.053] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 17:00:12.059] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 17:34:50.374] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 18:34:03.493] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 18:52:41.651] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 18:55:30.775] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 18:56:57.179] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 18:59:30.481] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 19:00:09.411] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 19:27:20.230] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 19:49:13.267] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 19:56:14.782] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 20:15:48.627] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 20:18:43.767] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 20:46:54.411] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 22:34:17.145] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 22:38:54.581] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 22:38:57.556] [INFO] expense_server_express - new user
+[2017-10-10 22:38:57.568] [INFO] expense_server_express - new user registered
+[2017-10-10 22:38:57.577] [INFO] expense_server_express - new user
+[2017-10-10 22:38:57.579] [INFO] expense_server_express - new user registered
+[2017-10-10 22:40:17.190] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 22:40:20.037] [INFO] expense_server_express - new user
+[2017-10-10 22:40:20.048] [INFO] expense_server_express - new user registered
+[2017-10-10 22:40:20.055] [INFO] expense_server_express - new user
+[2017-10-10 22:40:20.056] [INFO] expense_server_express - new user registered
+[2017-10-10 22:44:29.139] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 22:44:57.584] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 22:44:59.806] [INFO] expense_server_express - new user
+[2017-10-10 22:44:59.815] [INFO] expense_server_express - new user registered
+[2017-10-10 22:44:59.823] [INFO] expense_server_express - new user
+[2017-10-10 22:44:59.824] [INFO] expense_server_express - new user registered
+[2017-10-10 23:33:48.432] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 23:33:50.490] [INFO] expense_server_express - new user
+[2017-10-10 23:33:50.498] [INFO] expense_server_express - new user registered
+[2017-10-10 23:33:50.504] [INFO] expense_server_express - new user
+[2017-10-10 23:33:50.506] [INFO] expense_server_express - new user registered
+[2017-10-10 23:40:43.677] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 23:42:13.611] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 23:43:34.376] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 23:48:59.243] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 23:51:17.430] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 23:52:41.022] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 23:55:00.446] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-10 23:56:18.297] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-11 02:17:19.998] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-11 02:24:38.733] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-11 02:27:52.645] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-11 02:32:46.865] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-11 02:37:18.672] [INFO] expense_server_express - new user
+[2017-10-11 02:37:18.957] [INFO] expense_server_express - new user registered
+[2017-10-11 04:10:43.134] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-11 04:12:19.223] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-11 04:16:11.485] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-11 04:16:21.615] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-11 04:17:22.324] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-11 04:20:16.153] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-11 05:20:17.988] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-11 05:32:04.467] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-11 05:38:15.920] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-11 05:44:36.210] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-11 05:45:41.180] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-11 05:47:54.399] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-11 05:48:21.182] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-11 05:56:13.077] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-11 06:06:47.147] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-11 07:33:20.374] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-11 07:36:38.041] [INFO] expense_server_express - new user
+[2017-10-11 07:36:38.325] [INFO] expense_server_express - new user registered
+[2017-10-11 07:40:59.470] [INFO] expense_server_express - new user
+[2017-10-11 07:40:59.728] [INFO] expense_server_express - new user registered
+[2017-10-11 08:50:44.892] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-11 08:59:27.052] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-11 09:00:40.801] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-11 09:07:04.679] [INFO] expense_server_express - LOGGING WORKING PROPERLY
+[2017-10-11 09:20:19.626] [INFO] expense_server_express - LOGGING WORKING PROPERLY
